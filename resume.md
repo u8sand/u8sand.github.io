@@ -39,6 +39,13 @@ Summer 2014 - Present
 - Created a data acquisition and reformatting pipeline for center website
 - Under guidance of faculty mentor, develop labs for cybersecurity class usage
 
+**BD2K-LINCS Summer Research in Biomedical Big Data Science**, *Ma’ayan Laboratory of Computational Systems Biology, Icahn School of Medicine at Mount Sinai in New York*  
+Summer 2016
+
+- Built python-based web apps for biomedical applications
+- Applied big data analytics to make novel predictions with large genomics datasets
+- Work publicly available: <http://adhesome.org/> <https://github.com/MaayanLab/adhesome> <https://github.com/MaayanLab/GenesToWordCloud>
+
 **Intern, *NIKSUN, Inc***, *Princeton NJ*  
 Summer 2013
 
