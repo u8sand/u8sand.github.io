@@ -1,0 +1,6 @@
+{% assign menu = site.pages | filter: 'nav' %}
+{% for p in menu %}
+  {% if p.nav %}
+    <li{% if page.permalink == p.permalink %} class="active"{% endif %}><a href="{{ p.permalink }}">{{ p.title }}</a></li>
+  {% endif %}
+{% endfor %}

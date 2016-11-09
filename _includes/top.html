@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ site.title }}</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="/css/global.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <div class="nav-wrapper">
+          <a href="#" data-activates="mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+          <ul class="side-nav" id="mobile">
+            {% include nav.html %}
+          </ul>
+          <div class="container">
+            <div class="logo center">
+              <h1>{{ site.title }}</h1>
+              <h2>{{ site.subtitle }}</h2>
+            </div>
+            <div class="row hide-on-small-and-down bottom-line">
+              <ul class="left">
+                {% include nav.html %}
+              </ul>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+    <main>
+      <div class="container">

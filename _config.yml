@@ -1,0 +1,15 @@
+#baseurl: ""
+#url: ""
+title: u8sand.net
+subtitle: an online profile for Daniel J. B. Clarke
+description: > # this means to ignore newlines until "baseurl:"
+  TODO
+copyright: Copyright &copy; 2016
+markdown: kramdown
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock
+sass:
+    sass_dir: _sass

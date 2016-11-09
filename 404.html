@@ -1,0 +1,36 @@
+---
+layout: page
+title: Page Not Found
+---
+
+<h1>Page Not Found</h1>
+<p id="msg"></p>
+
+<script>
+function main() {
+  function randMsg() {
+    switch(Math.floor(Math.random()*8)) {
+    case 0:
+      return 'Cookies are yummy; so are pi.';
+    case 1:
+      return 'Well.. This is awkward.';
+    case 2:
+      return 'No one here but us.';
+    case 3:
+      return 'Just between you and me, I think he is playing with us.';
+    case 4:
+      return 'Can you find the page?';
+    case 5:
+      return 'I think you typed it in wrong, look closely.';
+    case 6:
+      return 'You would not believe the amount of people who come to this page.';
+    case 7:
+      return 'What are you looking for anyway?';
+    case 8:
+      return 'I see you~';
+    }
+    return '';
+  }
+  $('#msg').text(randMsg());
+}
+</script>
