@@ -4,6 +4,10 @@ title: Resume
 permalink: /resume/
 ---
 
+# Resume
+
+**Daniel J. B. Clarke**
+
 ### EDUCATION
 
 **BS/MS Electrical Engineering/Computer Engineering**, *Fairleigh Dickinson University, Teaneck, NJ*  
