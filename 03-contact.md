@@ -2,9 +2,8 @@
 layout: page
 title: Contact
 permalink: /contact/
+nav: true
 ---
-
-# Contact
 
 Please email me at <danieljbclarke@gmail.com>, or leave me a voicemail at [201-357-7356](tel:201-357-7356).
 

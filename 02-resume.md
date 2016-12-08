@@ -2,9 +2,8 @@
 layout: page
 title: Resume
 permalink: /resume/
+nav: true
 ---
-
-# Resume
 
 **Daniel J. B. Clarke**
 
@@ -70,7 +69,7 @@ Summer 2014 - Current
 - Contributed to dependent projects including mpv and qt
 - Collaborated with UX designer and open source community
 
-**Software Development**, see [projects](/projects/)  
+**Software Development**
 2007 - Current
 
 - Research, led, and developed a wide variety of projects
