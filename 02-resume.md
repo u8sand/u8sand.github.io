@@ -5,38 +5,33 @@ permalink: /resume/
 nav: true
 ---
 
-**Daniel J. B. Clarke**
-
+## Daniel J. B. Clarke
+---
 ### EDUCATION
 
-**BS/MS Electrical Engineering/Computer Engineering**, *Fairleigh Dickinson University, Teaneck, NJ*  
-Combined accelerated dual degree program, Anticipated May 2017
+**MS Computer Engineering**, *Fairleigh Dickinson University, Teaneck NJ*  
+Spring 2017
 
-**Global Experience:**
+**BS Electrical Engineering**, *Fairleigh Dickinson University, Teaneck NJ*  
+*Magna Cum Laude*, *Global Scholars*, Spring 2017
 
-- Member of FDU Global Scholars Program
-- Study Abroad: Manaus, Brazil, Summer 2012 and Wroxton, England, Spring 2014
-
-**Certifications:**
-
-- Amateur Radio License
+**Amateur Radio License**, *Technician*, KD2IQK  
+Spring 2015
 
 ### TECHNICAL SKILLS
 
-- python; scipy, pandas, sklearn, networkx, django, selenium, scapy
-- bash; regex, bpf, iptables, awk
-- C/C++; stl, boost, win32, .NET, Qt
-- PHP/HTML/Javascript; jQuery, latex, mathjax
-- unix systems and tools, network programming, parallel processing, system administration
+- Unix: awk, sed, rsync, iptables, bpf, git, gdb, radare
+- C/C++; stl (c++11), boost, win32, .NET, Qt, CMake, OGRE, DirectX
+- Python3; pandas, sklearn, networkx, django, selenium, scapy, tensorflow
+- HTML/Javascript; jQuery, Node, React, Angular, Jekyll, latex, mathjax
 
 ### WORK EXPERIENCE
 
-**Program Developer, *University CyberLab, Fairleigh Dickinson University*,** *Teaneck NJ*  
-Summer 2014 - Present
+**Student Worker, *Grants and Sponsored Projects, Fairleigh Dickinson University*,** *Teaneck NJ*  
+Summer 2015 - Summer 2017
 
-- Conducted research in planning and implementing virtual Cyber Defense and Forensics Laboratory, documented solutions and costs, leading to designation as NSA National Centers of Academic Excellence in Information Assurance/Cyber Defense
-- Created a data acquisition and reformatting pipeline for center website
-- Under guidance of faculty mentor, develop labs for cybersecurity class usage
+- Created a data acquisition and reformatting pipeline for cybersecurity and grants websites
+- Assisted with Annual Cybersecurity Symposiums and NSA National Centers of Academic Excellence in Information Assurance/Cyber Defense designation
 
 **BD2K-LINCS Summer Research in Biomedical Big Data Science**, *Ma’ayan Laboratory of Computational Systems Biology, Icahn School of Medicine at Mount Sinai in New York*  
 Summer 2016
@@ -44,6 +39,11 @@ Summer 2016
 - Built python-based web apps for biomedical applications
 - Applied big data analytics to make novel predictions with large genomics datasets
 - Work publicly available: <http://adhesome.org/> <https://github.com/MaayanLab/adhesome> <https://github.com/MaayanLab/GenesToWordCloud>
+
+**Cyberlab Research, *Center for Cybersecurity and Information Assurance, Fairleigh Dickinson University*,** *Teaneck NJ*  
+Summer 2014
+
+- Conducted research in planning and implementing a virtual Cyber Defense and Forensics Laboratory
 
 **Intern, *NIKSUN, Inc***, *Princeton NJ*  
 Summer 2013
@@ -77,10 +77,12 @@ Summer 2014 - Current
 
 ### EXTRA CURRICULAR ACTIVITIES
 
-- **IEEEXtreme Competitor**: Team Marshmallow 2012 - 2016
-- **Outstanding Poster Award**: LSAMP Research Conference 2016
+- **1st Place Winner:** IEEE Region 1 Student Paper Competition 2017
+- **1st Place Winner:** FDU IEEE Local Student Paper Competition 2017
 - **1st Place Winner:** IEEE Region 1 Student Ethics Competition 2015
 - **1st Place Winner:** FDU Cybersecurity Symposium Poster Competition 2014
 - **15th Place Winner:** NJ Governors Cyber Challenge 2013
-- **Editor and Writer, FDU Equinox**: Student Newspaper 2015 - 2016
+- **Outstanding Poster Award**: LSAMP Research Conference 2016
+- **IEEEXtreme Competitor**: Team Marshmallow 2012 - 2016
+- **Editor and Writer, FDU Equinox**: Student Newspaper 2015 - 2017
 - **President, FDU Green Team**: Campus Environmental Advocacy Club 2014 - 2016
