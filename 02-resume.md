@@ -3,18 +3,16 @@ layout: page
 title: Resume
 permalink: /resume/
 nav: true
+heading: "Daniel J. B. Clarke"
+printable: true
 ---
 
-## Daniel J. B. Clarke
----
 ### EDUCATION
 
 **MS Computer Engineering**, *Fairleigh Dickinson University, Teaneck NJ*  
-Spring 2017
-
+Spring 2017  
 **BS Electrical Engineering**, *Fairleigh Dickinson University, Teaneck NJ*  
-*Magna Cum Laude*, *Global Scholars*, Spring 2017
-
+Magna Cum Laude, Global Scholars, Spring 2017  
 **Amateur Radio License**, *Technician*, KD2IQK  
 Spring 2015
 

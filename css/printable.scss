@@ -1,0 +1,23 @@
+---
+---
+
+.printable {
+  display: none;
+}
+
+@media print {
+  body {
+    & > *:not(main) {
+      display: none;
+    }
+    & > main {
+      position: absolute;
+      top: 0;
+      left: 0;
+      display: block;
+      .printable {
+        display: block;
+      }
+    }
+  }
+}
