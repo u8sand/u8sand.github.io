@@ -25,6 +25,11 @@ Spring 2015
 
 ### WORK EXPERIENCE
 
+**Cyberlab Research and Development, *Center for Cybersecurity and Information Assurance, Fairleigh Dickinson University*,** *Teaneck NJ*  
+Summer 2014, Fall 2017 - Present
+
+- Conducted research in planning and implementing a virtual Cyber Defense and Forensics Laboratory
+
 **Student Worker, *Grants and Sponsored Projects, Fairleigh Dickinson University*,** *Teaneck NJ*  
 Summer 2015 - Summer 2017
 
@@ -37,11 +42,6 @@ Summer 2016
 - Built python-based web apps for biomedical applications
 - Applied big data analytics to make novel predictions with large genomics datasets
 - Work publicly available: <http://adhesome.org/> <https://github.com/MaayanLab/adhesome> <https://github.com/MaayanLab/GenesToWordCloud>
-
-**Cyberlab Research, *Center for Cybersecurity and Information Assurance, Fairleigh Dickinson University*,** *Teaneck NJ*  
-Summer 2014
-
-- Conducted research in planning and implementing a virtual Cyber Defense and Forensics Laboratory
 
 **Intern, *NIKSUN, Inc***, *Princeton NJ*  
 Summer 2013
