@@ -1,0 +1,345 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <title>Analog Neural Networks</title>
+
+  <link rel="stylesheet" href="css/reveal.css">
+  <link rel="stylesheet" href="css/theme/league.css">
+
+  <!-- Theme used for syntax highlighting of code -->
+  <link rel="stylesheet" href="lib/css/zenburn.css">
+
+  <style>
+    .row {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .col {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    ol.references {
+      font-size: 50%;
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      display: table;
+    }
+    ol.references li {
+      counter-increment: step-counter;
+      margin-bottom: 10px;
+      display: table-row;
+    }
+    ol.references li:before {
+      content: "["counter(step-counter)"]";
+      padding-right: 10px;
+      display: table-cell;
+    }
+    /*.row img, .col img {
+      flex: 1 1 auto;
+    }*/
+  </style>
+
+  <!-- Printing and PDF exports -->
+  <script>
+   var link = document.createElement( 'link' );
+   link.rel = 'stylesheet';
+   link.type = 'text/css';
+   link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+   document.getElementsByTagName( 'head' )[0].appendChild( link );
+ </script>
+</head>
+<body>
+  <div class="reveal">
+   <div class="slides">
+    <section class="center">
+      <h2>Analog Feed Forward Neural Networks</h2>
+      <strong>Daniel J. B. Clarke</strong><br />
+      <small>
+        Gilart Hasse School of<br />
+        Computer Sciences &amp; Engineering<br />
+        Fairleigh Dickinson University</small>
+      <div class="row">
+        <div style="flex: 1"></div>
+        <img src="images/fdu.png" style="width: 10%" />
+        <p>&nbsp;</p>
+        <img src="images/lsamp.png" style="width: 3%" />
+      </div>
+      </section>
+      <section>
+        <section>
+          <h2>Motivation</h2>
+          <div class="row stretch">
+            <img src="images/motivation_1.png" style="width: 45%;" />
+            <img src="images/motivation_3.png" style="width: 45%;" />
+          </div>
+          <p>Neural network applications in Machine Learning</p>
+        </section>
+        <section>
+          <h2>Nueral Networks</h2>
+          <!-- feed forward neural network diagram -->
+          <div class="row stretch">
+            <img src="images/biology_2.jpg" style="width: 50%" />
+            <img src="images/biology.jpg"  style="width: 40%" />
+          </div>
+          <p>A model of the biologic brain</p>
+        </section>
+        <section>
+          <h2>Current Approach</h2>
+          <div class="row stretch">
+            <img src="images/motivation_4.png" style="width: 40%;" />
+            <img src="images/motivation_5.png" style="width: 50%;" />
+          </div>
+        </section>
+      </section>
+      <section>
+        <h2>Objective</h2>
+        <p>Build an Analog Feed Forward Neural Network</p>
+        <ul>
+          <li class="fragment" data-fragment-index="1">Test on AND, OR, XOR</li>
+          <li class="fragment" data-fragment-index="2">Benchmark against software-based implementations</li>
+        </ul>
+        <object type="image/svg+xml" data="images/signals.svg" class="fragment" data-fragment-index="3">
+          <h1><img src="images/signals.svg" alt="Signal graph"></h1>
+        </object>
+      </section>
+      <section>
+        <section>
+          <h2>Theory</h2>
+          <!-- feed forward neural network diagram -->
+          <object type="image/svg+xml" datimages/a="ffnn.svg" class="stretch">
+            <h1><img srimages/c="ffnn.svg" alt="Feed Forward Neural Network" class="stretch"></h1>
+          </object>
+          <p>$$y_j=\tanh\left(\sum_i^n{x_{ji}w_{ji}}\right)$$</p>
+        </section>
+        <section>
+          <h2>Learning</h2>
+          <!-- gradient descent training -->
+          <p>$$\Delta w_i=\underbrace{\alpha}_\text{Learning Rate}\underbrace{(\overbrace{t_i}^\text{Target}-\overbrace{y_i}^\text{Output})}_\text{Error}\times \underbrace{x_i}_\text{Input}$$</p>
+        </section>
+        <section>
+          <h2>Theoretical  Simulation</h2>
+          <!-- tensorflow playground vid -->
+          <video class="stretch" data-autoplay muted src="images/theory.mp4"></video>
+        </section>
+      </section>
+      <section>
+        <section>
+          <h2>Design &amp; Simulation</h2>
+        </section>
+        <section>
+          <!-- <h2>Design</h2> -->
+          <!-- activation function -->
+          <div class="row stretch">
+            <img src="images/tanh.png" style="background-color: white;" />
+            <img src="images/diode_clipper_schematic.png" style="background-color: white; height: 50%" />
+          </div>
+          <p>$$y_j=\overbrace{\tanh}\left(\sum_i^n{x_{ji}\times w_{ji}}\right)$$</p>
+        </section>
+        <section>
+          <!-- <h2>Design</h2> -->
+          <!-- RC Time constant -->
+          <div class="row stretch">
+            <img src="images/capacitor_charge.png" style="background-color: white;" />
+            <img src="images/differential_amp.png" style="background-color: white; height: 58%;" />
+          </div>
+          <p>$$\Delta w_i=\overbrace{\alpha}(t\overbrace{-}y_i)\times x_i$$</p>
+        </section>
+        <section>
+          <!-- analog memory -->
+          <div class="row stretch">
+            <img src="images/2017_03_27_weight_control.png" style="background-color: white;" />
+            <video data-autoplay loop muted src="images/weight_control.mp4"></video>
+          </div>
+          <p>$$\overbrace{\Delta w_i}=\alpha(t-y_i)\times x_i$$</p>
+        </section>
+        <section>
+          <!-- <h2>Design</h2> -->
+          <!-- binary product -->
+          <div class="row stretch">
+            <img src="images/dot.png" style="background-color: white;" />
+            <video data-autoplay loop muted src="images/binary_product.mp4"></video>
+          </div>
+          <p>$$\Delta w_i=\alpha(t-y_i)\overbrace{\times} x_i$$</p>
+        </section>
+        <section>
+          <!-- <h2>Design</h2> -->
+          <!-- testing circuit -->
+          <div class="row stretch">
+            <img src="images/test.png" style="background-color: white;" />
+            <video data-autoplay loop muted src="images/test.mp4"></video>
+          </div>
+          <p>$$\Delta w_i=\alpha(\overbrace{t}-y_i)\times \overbrace{x_i}$$</p>
+        </section>
+      </section>
+      <section>
+        <section>
+          <h2>Complete</h2>
+          <div class="row stretch">
+            <img src="images/full_circuit.png" style="width: 60%" />
+            <img src="images/final.jpg" style="width: 35%" />
+            <!-- <video data-autoplay loop muted src=""></video> -->
+          </div>
+          <p>Circuit in action </p>
+        </section>
+        <section>
+          <h2>Results</h2>
+          <table>
+            <thead>
+              <tr>
+                <td colspan=4>Software</td>
+                <td colspan=2>Hardware*</td>
+              </tr>
+              <tr>
+                <th>Test</th>
+                <th>Time (ms)</th>
+                <th>Learned</th>
+                <th>Epochs</th>
+                <th>Time (ms)</th>
+                <th>Learned</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>AND</td>
+                <td>0.51</td>
+                <td>True</td>
+                <td>10</td>
+                <td>0.022</td>
+                <td>True</td>
+              </tr>
+              <tr>
+                <td>OR</td>
+                <td>0.42</td>
+                <td>True</td>
+                <td>12</td>
+                <td>0.026</td>
+                <td>True</td>
+              </tr>
+              <tr>
+                <td>XOR**</td>
+                <td>4.62</td>
+                <td>False</td>
+                <td>-</td>
+                <td>-</td>
+                <td>False</td>
+              </tr>
+            </tbody>
+          </table>
+          <p>&nbsp;</p>
+          <small>* These results are theoretical based on RC constant.</small>
+          <small>** This result is expected, a 2-1 FFNN is required for XOR.</small>
+        </section>
+      </section>
+      <section>
+        <h2>Conclusion</h2>
+        <ul>
+          <li class="fragment" data-fragment-index="1">
+            Realization of Analog Feed Forward Neural Network
+            <ul>
+              <li class="fragment" data-fragment-index="2">
+                Hardware accelerated machine learning driven by software
+              </li>
+              <li class="fragment" data-fragment-index="3">
+                Inherent scalability
+              </li>
+              <!-- <li class="fragment" data-fragment-index="4">
+                ____ % speedup with a single neuron
+              </li> -->
+            </ul>
+          </li>
+        </ul>
+      </section>
+      <section>
+        <h2>References</h2>
+        <ol class="references">
+        <li>P. Auer, H. Burgsteiner, and W. Maass, “A learning rule for
+very simple universal approximators consisting of a single
+layer of perceptrons,” Neural Networks, vol. 21, no. 5,
+pp. 786 – 795, 2008.</li>
+<li>H. P. Graf and L. D. Jackel, “Analog electronic neural
+network circuits,” IEEE Circuits and Devices Magazine,
+vol. 5, pp. 44–49, July 1989.</li>
+<li>M. Ueda, Y. Nishitani, Y. Kaneko, and A. Omote, “Back-
+propagation operation for analog neural network hardware
+with synapse components having hysteresis characteris-
+tics,” PLOS ONE, vol. 9, pp. 1–10, November 2014.</li>
+<li>M. Abadi, P. Barham, J. Chen, Z. Chen, A. Davis,
+J. Dean, M. Devin, S. Ghemawat, G. Irving, M. Isard,
+M. Kudlur, J. Levenberg, R. Monga, S. Moore, D. G.
+Murray, B. Steiner, P. Tucker, V. Vasudevan, P. Warden,
+M. Wicke, Y. Yu, and X. Zheng, “Tensorflow: A system for
+large-scale machine learning,” in Proceedings of the 12th
+USENIX Conference on Operating Systems Design and
+Implementation, OSDI’16, (Berkeley, CA, USA), pp. 265–
+283, USENIX Association, 2016.</li>
+<li>E. Rosenthal, S. Greshnikov, D. Soudry, and S. Kvatinsky,
+“A fully analog memristor-based neural network with
+online gradient training,” in 2016 IEEE International Sym-
+posium on Circuits and Systems (ISCAS), pp. 1394–1397,
+May 2016.</li></ol>
+      </section>
+      <section>
+        <h1>Thank you</h1>
+        <p>&nbsp;</p>
+        <div class="row">
+          <div style="flex: 1"></div>
+          <img src="images/fdu.png" style="width: 10%" />
+          <p>&nbsp;</p>
+          <img src="images/lsamp.png" style="width: 3%" />
+          <div style="flex: 1"></div>
+        </div>
+        <p>Contact: <a href="mailto:danieljbclarke@gmail.com">danieljbclarke@gmail.com</a></p>
+      </section>
+    </div>
+  </div>
+
+  <script src="lib/js/head.min.js"></script>
+  <script src="js/reveal.js"></script>
+
+  <script>
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				history: true,
+        // center: false,
+        controls: false,
+        math: {
+          mathjax: 'https://cdn.mathjax.org/mathjax/latest/MathJax.js',
+                    config: 'TeX-AMS_HTML-full'  // See http://docs.mathjax.org/en/latest/config-files.html
+                  },
+				// More info https://github.com/hakimel/reveal.js#dependencies
+				dependencies: [
+       { src: 'plugin/markdown/marked.js' },
+       { src: 'plugin/markdown/markdown.js' },
+       { src: 'plugin/math/math.js', async: true },
+       { src: 'plugin/notes/notes.js', async: true },
+       { src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
+       ],
+       keyboard: {
+        13: function() { // enter key
+          var video = document.querySelector(".present video");
+          if(video.paused)
+            video.play();
+          else
+            video.pause();
+        },
+        37: function() { // <-
+          var video = document.querySelector(".present video");
+          video.currentTime = Math.max(0, video.currentTime - 2);
+        },
+        39: function() { // ->
+          var video = document.querySelector(".present video");
+          video.currentTime = Math.min(video.duration, video.currentTime + 2);
+        }
+       }
+     });
+   </script>
+ </body>
+ </html>

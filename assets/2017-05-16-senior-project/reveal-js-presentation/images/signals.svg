@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.2" width="127mm" height="76.2mm" viewBox="0 0 12700 7620" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:ooo="http://xml.openoffice.org/svg/export" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:presentation="http://sun.com/xmlns/staroffice/presentation" xmlns:smil="http://www.w3.org/2001/SMIL20/" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xml:space="preserve">
+ <defs class="ClipPathGroup">
+  <clipPath id="presentation_clip_path" clipPathUnits="userSpaceOnUse">
+   <rect x="0" y="0" width="12700" height="7620"/>
+  </clipPath>
+  <clipPath id="presentation_clip_path_shrink" clipPathUnits="userSpaceOnUse">
+   <rect x="12" y="7" width="12675" height="7605"/>
+  </clipPath>
+ </defs>
+ <defs>
+  <font id="EmbeddedFont_1" horiz-adv-x="2048">
+   <font-face font-family="Calibri embedded" units-per-em="2048" font-weight="bold" font-style="normal" ascent="1931" descent="556"/>
+   <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
+   <glyph unicode="x" horiz-adv-x="901" d="M 901,53 C 906,42 909,32 909,25 908,18 903,12 894,7 885,2 870,-1 851,-3 832,-4 806,-5 774,-5 744,-5 720,-5 702,-5 683,-5 669,-3 659,0 648,3 641,6 636,11 631,15 627,20 624,27 L 459,346 294,27 C 291,20 288,15 283,11 278,6 271,3 262,0 252,-3 238,-5 221,-5 204,-5 181,-5 153,-5 124,-5 100,-4 83,-3 66,-1 53,2 45,7 37,12 33,18 33,25 32,32 35,42 41,53 L 288,491 60,901 C 54,913 51,923 51,932 50,940 54,946 63,951 72,956 86,959 105,961 124,963 149,964 182,964 211,964 235,964 253,964 270,964 284,963 294,961 304,959 311,956 316,951 321,947 325,942 328,935 L 487,636 645,934 C 647,939 650,944 654,948 658,952 664,955 673,958 682,961 694,963 709,964 724,965 744,966 770,966 799,966 823,965 841,964 858,963 871,960 879,955 886,950 890,944 890,936 889,927 885,916 878,903 L 656,498 901,53 Z"/>
+   <glyph unicode="X" horiz-adv-x="1086" d="M 1063,99 C 1075,76 1083,57 1087,43 1090,29 1088,18 1080,11 1072,4 1058,-1 1037,-3 1016,-5 986,-6 949,-6 918,-6 893,-5 875,-4 857,-3 843,0 833,3 822,6 815,10 810,15 805,20 801,27 798,35 L 555,502 313,35 C 309,27 305,20 300,15 295,10 288,6 278,3 267,0 253,-3 235,-4 216,-5 192,-6 162,-6 127,-6 101,-5 82,-3 63,-1 50,4 43,11 36,18 35,29 39,43 43,57 51,76 64,99 L 374,664 86,1195 C 74,1219 66,1238 62,1253 57,1267 59,1278 67,1285 74,1292 88,1296 109,1298 130,1299 159,1300 197,1300 228,1300 253,1299 272,1298 290,1297 304,1295 315,1292 326,1289 333,1284 338,1279 342,1274 346,1267 350,1259 L 577,831 798,1259 C 802,1267 806,1274 811,1279 815,1284 822,1289 832,1292 841,1295 855,1297 872,1298 889,1299 912,1300 942,1300 975,1300 1002,1299 1021,1298 1040,1296 1054,1291 1061,1284 1068,1277 1070,1266 1067,1252 1063,1238 1055,1219 1044,1195 L 756,667 1063,99 Z"/>
+   <glyph unicode="R" horiz-adv-x="980" d="M 1101,34 C 1101,27 1100,21 1097,16 1094,11 1088,6 1078,3 1068,0 1053,-3 1034,-4 1015,-5 988,-6 955,-6 927,-6 905,-5 888,-4 871,-3 858,0 849,4 839,7 832,12 828,18 824,23 821,30 818,38 L 702,327 C 688,360 674,389 661,414 648,439 633,461 617,478 600,495 581,507 560,516 539,525 514,529 486,529 L 404,529 404,36 C 404,29 402,23 398,18 393,13 386,8 376,5 366,2 353,-1 336,-3 319,-5 298,-6 272,-6 247,-6 226,-5 209,-3 192,-1 178,2 168,5 158,8 151,13 147,18 143,23 141,29 141,36 L 141,1211 C 141,1240 149,1262 164,1275 179,1288 197,1294 219,1294 L 554,1294 C 588,1294 616,1293 638,1292 660,1291 680,1289 698,1287 750,1280 797,1267 839,1249 880,1231 916,1208 945,1179 974,1150 996,1115 1011,1076 1026,1036 1034,990 1034,939 1034,896 1029,856 1018,821 1007,785 990,753 969,725 948,697 921,673 890,652 859,631 823,615 783,602 802,593 821,581 838,568 855,555 871,539 886,520 901,501 915,479 928,455 941,430 954,403 967,372 L 1076,117 C 1086,92 1093,73 1096,62 1099,50 1101,41 1101,34 Z M 762,912 C 762,955 752,991 733,1020 714,1049 682,1070 638,1082 625,1085 610,1088 593,1090 576,1092 552,1093 522,1093 L 404,1093 404,726 538,726 C 575,726 608,731 636,740 664,749 687,761 706,778 725,794 739,813 748,836 757,859 762,884 762,912 Z"/>
+   <glyph unicode="O" horiz-adv-x="1245" d="M 1305,662 C 1305,555 1292,459 1265,374 1238,289 1199,218 1146,159 1093,100 1028,55 951,24 873,-7 783,-23 681,-23 580,-23 493,-10 418,17 343,43 280,83 230,137 180,191 143,260 118,343 93,426 80,525 80,639 80,744 93,838 120,922 147,1005 186,1076 239,1135 292,1194 357,1239 435,1270 512,1301 602,1317 705,1317 803,1317 890,1304 965,1278 1040,1252 1102,1212 1153,1158 1203,1104 1241,1036 1267,954 1292,871 1305,774 1305,662 Z M 1029,648 C 1029,716 1024,778 1013,834 1002,889 984,937 959,977 933,1016 899,1047 856,1069 813,1090 760,1101 696,1101 631,1101 577,1089 534,1065 491,1040 456,1008 429,967 402,926 384,879 373,825 362,770 356,713 356,652 356,581 361,518 372,462 383,405 401,357 426,317 451,277 485,247 528,226 571,205 624,194 689,194 754,194 808,206 851,230 894,254 929,287 956,328 983,369 1002,418 1013,473 1024,528 1029,586 1029,648 Z"/>
+   <glyph unicode="N" horiz-adv-x="1086" d="M 1208,92 C 1208,77 1205,63 1200,51 1195,39 1188,29 1179,21 1170,13 1159,7 1147,4 1134,0 1122,-2 1109,-2 L 997,-2 C 974,-2 954,0 937,5 920,10 904,18 890,31 875,43 861,60 848,81 835,102 820,129 803,162 L 481,767 C 462,803 443,842 424,884 405,925 387,966 372,1005 L 370,1005 C 373,957 375,909 376,862 377,814 378,765 378,714 L 378,37 C 378,30 376,24 373,19 369,14 363,9 354,6 345,2 332,-1 317,-3 302,-5 282,-6 258,-6 235,-6 215,-5 200,-3 185,-1 173,2 164,6 155,9 149,14 146,19 143,24 141,30 141,37 L 141,1200 C 141,1231 150,1255 169,1271 187,1286 209,1294 236,1294 L 377,1294 C 402,1294 424,1292 441,1288 458,1283 474,1276 488,1266 501,1256 514,1242 526,1225 538,1207 550,1185 563,1159 L 815,686 C 830,657 844,629 859,602 873,574 887,546 900,519 913,491 926,464 939,437 952,410 964,384 976,357 L 977,357 C 975,404 974,452 973,503 972,554 971,602 971,648 L 971,1255 C 971,1262 973,1268 977,1273 981,1278 988,1283 997,1287 1006,1291 1019,1294 1034,1296 1049,1297 1069,1298 1093,1298 1116,1298 1135,1297 1150,1296 1165,1294 1177,1291 1186,1287 1194,1283 1200,1278 1203,1273 1206,1268 1208,1262 1208,1255 L 1208,92 Z"/>
+   <glyph unicode="D" horiz-adv-x="1086" d="M 1216,666 C 1216,547 1201,446 1170,362 1139,277 1094,208 1036,155 978,102 908,63 825,38 742,13 643,0 528,0 L 219,0 C 197,0 179,7 164,20 149,33 141,54 141,83 L 141,1211 C 141,1240 149,1262 164,1275 179,1288 197,1294 219,1294 L 551,1294 C 666,1294 764,1281 845,1254 925,1227 993,1187 1048,1134 1103,1081 1144,1015 1173,937 1202,859 1216,769 1216,666 Z M 944,657 C 944,718 937,775 923,828 908,881 885,926 854,965 822,1004 781,1034 732,1056 682,1077 617,1088 536,1088 L 403,1088 403,208 540,208 C 612,208 673,217 722,236 771,255 813,283 846,321 879,358 903,405 920,461 936,517 944,582 944,657 Z"/>
+   <glyph unicode="A" horiz-adv-x="1218" d="M 1201,99 C 1209,75 1214,56 1216,42 1218,28 1215,18 1208,11 1201,4 1188,-1 1169,-3 1150,-4 1125,-5 1092,-5 1058,-5 1032,-5 1013,-5 994,-5 979,-3 969,0 959,3 952,7 948,12 944,17 941,25 938,33 L 851,295 365,295 283,42 C 280,33 277,25 273,19 268,12 261,7 252,4 242,0 228,-3 211,-4 193,-5 170,-6 141,-6 110,-6 86,-5 69,-3 52,-1 40,4 33,12 26,19 24,30 26,44 28,58 33,77 41,100 L 440,1249 C 444,1260 449,1269 454,1276 459,1283 468,1289 480,1292 491,1296 507,1298 528,1298 549,1298 576,1298 610,1298 649,1298 681,1298 704,1298 727,1298 746,1296 759,1293 772,1289 781,1283 787,1276 792,1269 797,1259 801,1246 L 1201,99 Z M 607,1047 L 606,1047 423,497 790,497 607,1047 Z"/>
+   <glyph unicode="1" horiz-adv-x="583" d="M 570,33 C 570,26 568,20 564,15 560,10 553,6 543,3 533,0 520,-2 503,-3 486,-4 465,-5 440,-5 415,-5 395,-5 378,-5 361,-5 347,-3 337,0 327,3 320,7 315,12 310,17 308,23 308,31 L 308,808 100,693 C 85,686 73,681 64,679 54,677 46,679 41,685 35,690 31,700 29,715 26,729 25,749 25,774 25,791 26,806 27,817 28,829 29,839 32,846 35,854 38,860 43,866 48,871 54,876 61,881 L 339,1057 C 342,1060 347,1062 352,1064 357,1066 363,1068 372,1069 380,1070 390,1070 403,1070 416,1070 432,1070 453,1070 479,1070 500,1070 515,1070 530,1070 542,1069 551,1066 559,1063 564,1060 567,1056 569,1052 570,1047 570,1041 L 570,33 Z"/>
+   <glyph unicode="0" horiz-adv-x="1059" d="M 1114,536 C 1114,456 1103,382 1081,314 1058,245 1025,186 981,136 937,86 882,47 817,19 751,-9 675,-23 589,-23 497,-23 419,-9 354,18 289,45 237,83 196,132 155,181 125,239 106,306 87,373 78,447 78,526 78,606 89,680 112,749 134,817 167,876 212,926 256,976 311,1015 376,1043 441,1071 517,1085 603,1085 695,1085 773,1072 838,1045 903,1018 956,980 997,931 1038,882 1067,824 1086,757 1105,690 1114,616 1114,536 Z M 843,525 C 843,582 838,632 829,676 819,720 804,757 784,787 763,817 737,840 706,856 675,871 638,879 595,879 556,879 521,872 490,857 459,842 434,820 413,791 392,762 376,726 365,684 354,641 348,592 348,537 348,480 353,430 363,387 373,343 388,306 409,276 429,245 455,222 486,207 517,192 554,184 597,184 636,184 671,191 702,206 733,221 759,243 780,272 801,301 816,337 827,380 838,422 843,470 843,525 Z"/>
+  </font>
+ </defs>
+ <defs class="TextShapeIndex">
+  <g ooo:slide="id1" ooo:id-list="id3 id4 id5 id6 id7 id8 id9 id10 id11 id12 id13 id14 id15 id16 id17 id18 id19 id20 id21 id22 id23 id24 id25 id26 id27 id28 id29 id30 id31 id32"/>
+ </defs>
+ <defs class="EmbeddedBulletChars">
+  <g id="bullet-char-template(57356)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 580,1141 L 1163,571 580,0 -4,571 580,1141 Z"/>
+  </g>
+  <g id="bullet-char-template(57354)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 8,1128 L 1137,1128 1137,0 8,0 8,1128 Z"/>
+  </g>
+  <g id="bullet-char-template(10146)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 174,0 L 602,739 174,1481 1456,739 174,0 Z M 1358,739 L 309,1346 659,739 1358,739 Z"/>
+  </g>
+  <g id="bullet-char-template(10132)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 2015,739 L 1276,0 717,0 1260,543 174,543 174,936 1260,936 717,1481 1274,1481 2015,739 Z"/>
+  </g>
+  <g id="bullet-char-template(10007)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 0,-2 C -7,14 -16,27 -25,37 L 356,567 C 262,823 215,952 215,954 215,979 228,992 255,992 264,992 276,990 289,987 310,991 331,999 354,1012 L 381,999 492,748 772,1049 836,1024 860,1049 C 881,1039 901,1025 922,1006 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 C 774,196 753,168 711,139 L 727,119 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 C 142,-110 111,-127 72,-127 30,-127 9,-110 8,-76 1,-67 -2,-52 -2,-32 -2,-23 -1,-13 0,-2 Z"/>
+  </g>
+  <g id="bullet-char-template(10004)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 41,549 55,616 82,672 116,743 169,778 240,778 293,778 328,747 346,684 L 369,508 C 377,444 397,411 428,410 L 1163,1116 C 1174,1127 1196,1133 1229,1133 1271,1133 1292,1118 1292,1087 L 1292,965 C 1292,929 1282,901 1262,881 L 442,47 C 390,-6 338,-33 285,-33 Z"/>
+  </g>
+  <g id="bullet-char-template(9679)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 223,773 276,916 383,1023 489,1130 632,1184 813,1184 992,1184 1136,1130 1245,1023 1353,916 1407,772 1407,592 1407,412 1353,268 1245,161 1136,54 992,0 813,0 Z"/>
+  </g>
+  <g id="bullet-char-template(8226)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 346,457 C 273,457 209,483 155,535 101,586 74,649 74,723 74,796 101,859 155,911 209,963 273,989 346,989 419,989 480,963 531,910 582,859 608,796 608,723 608,648 583,586 532,535 482,483 420,457 346,457 Z"/>
+  </g>
+  <g id="bullet-char-template(8211)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M -4,459 L 1135,459 1135,606 -4,606 -4,459 Z"/>
+  </g>
+  <g id="bullet-char-template(61548)" transform="scale(0.00048828125,-0.00048828125)">
+   <path d="M 173,740 C 173,903 231,1043 346,1159 462,1274 601,1332 765,1332 928,1332 1067,1274 1183,1159 1299,1043 1357,903 1357,740 1357,577 1299,437 1183,322 1067,206 928,148 765,148 601,148 462,206 346,322 231,437 173,577 173,740 Z"/>
+  </g>
+ </defs>
+ <defs class="TextEmbeddedBitmaps"/>
+ <g>
+  <g id="id2" class="Master_Slide">
+   <g id="bg-id2" class="Background"/>
+   <g id="bo-id2" class="BackgroundObjects"/>
+  </g>
+ </g>
+ <g class="SlideGroup">
+  <g>
+   <g id="container-id1">
+    <g id="id1" class="Slide" clip-path="url(#presentation_clip_path)">
+     <g class="Page">
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id3">
+        <rect class="BoundingBox" stroke="none" fill="none" x="2234" y="4208" width="4899" height="279"/>
+        <defs>
+         <mask id="mask1">
+          <g>
+           <defs>
+            <linearGradient id="gradient1" x1="4683" y1="4273" x2="4683" y2="4486" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient1)" d="M 2234,4273 L 7132,4273 7132,4486 2234,4486 2234,4273 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask1)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 2340,4379 L 7026,4380"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 2340,4315 L 7026,4316"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id4">
+        <rect class="BoundingBox" stroke="none" fill="none" x="2234" y="1170" width="2563" height="279"/>
+        <defs>
+         <mask id="mask2">
+          <g>
+           <defs>
+            <linearGradient id="gradient2" x1="3515" y1="1235" x2="3515" y2="1448" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient2)" d="M 2234,1235 L 4796,1235 4796,1448 2234,1448 2234,1235 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask2)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 2340,1341 L 4690,1342"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 2340,1277 L 4690,1278"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id5">
+        <rect class="BoundingBox" stroke="none" fill="none" x="6919" y="351" width="2563" height="279"/>
+        <defs>
+         <mask id="mask3">
+          <g>
+           <defs>
+            <linearGradient id="gradient3" x1="8200" y1="416" x2="8200" y2="629" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient3)" d="M 6919,416 L 9481,416 9481,629 6919,629 6919,416 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask3)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 7025,522 L 9375,523"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 7025,458 L 9375,459"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id6">
+        <rect class="BoundingBox" stroke="none" fill="none" x="6919" y="4208" width="2563" height="279"/>
+        <defs>
+         <mask id="mask4">
+          <g>
+           <defs>
+            <linearGradient id="gradient4" x1="8200" y1="4273" x2="8200" y2="4486" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient4)" d="M 6919,4273 L 9481,4273 9481,4486 6919,4486 6919,4273 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask4)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 7025,4379 L 9375,4380"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 7025,4315 L 9375,4316"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id7">
+        <rect class="BoundingBox" stroke="none" fill="none" x="4584" y="1170" width="2563" height="279"/>
+        <defs>
+         <mask id="mask5">
+          <g>
+           <defs>
+            <linearGradient id="gradient5" x1="5865" y1="1235" x2="5865" y2="1448" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient5)" d="M 4584,1235 L 7146,1235 7146,1448 4584,1448 4584,1235 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask5)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 4690,1341 L 7040,1342"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 4690,1277 L 7040,1278"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id8">
+        <rect class="BoundingBox" stroke="none" fill="none" x="2234" y="2862" width="2563" height="279"/>
+        <defs>
+         <mask id="mask6">
+          <g>
+           <defs>
+            <linearGradient id="gradient6" x1="3515" y1="2927" x2="3515" y2="3140" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient6)" d="M 2234,2927 L 4796,2927 4796,3140 2234,3140 2234,2927 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask6)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 2340,3033 L 4690,3034"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 2340,2969 L 4690,2970"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id9">
+        <rect class="BoundingBox" stroke="none" fill="none" x="6933" y="2862" width="2563" height="279"/>
+        <defs>
+         <mask id="mask7">
+          <g>
+           <defs>
+            <linearGradient id="gradient7" x1="8214" y1="2927" x2="8214" y2="3140" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient7)" d="M 6933,2927 L 9495,2927 9495,3140 6933,3140 6933,2927 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask7)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 7039,3033 L 9389,3034"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 7039,2969 L 9389,2970"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id10">
+        <rect class="BoundingBox" stroke="none" fill="none" x="4584" y="2043" width="2563" height="279"/>
+        <defs>
+         <mask id="mask8">
+          <g>
+           <defs>
+            <linearGradient id="gradient8" x1="5865" y1="2108" x2="5865" y2="2321" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient8)" d="M 4584,2108 L 7146,2108 7146,2321 4584,2321 4584,2108 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask8)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 4690,2214 L 7040,2215"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 4690,2150 L 7040,2151"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id11">
+        <rect class="BoundingBox" stroke="none" fill="none" x="9283" y="351" width="2563" height="279"/>
+        <defs>
+         <mask id="mask9">
+          <g>
+           <defs>
+            <linearGradient id="gradient9" x1="10564" y1="416" x2="10564" y2="629" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient9)" d="M 9283,416 L 11845,416 11845,629 9283,629 9283,416 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask9)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 9389,522 L 11739,523"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 9389,458 L 11739,459"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id12">
+        <rect class="BoundingBox" stroke="none" fill="none" x="9283" y="2082" width="2563" height="279"/>
+        <defs>
+         <mask id="mask10">
+          <g>
+           <defs>
+            <linearGradient id="gradient10" x1="10564" y1="2147" x2="10564" y2="2360" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient10)" d="M 9283,2147 L 11845,2147 11845,2360 9283,2360 9283,2147 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask10)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 9389,2253 L 11739,2254"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 9389,2189 L 11739,2190"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id13">
+        <rect class="BoundingBox" stroke="none" fill="none" x="9269" y="3426" width="2564" height="279"/>
+        <defs>
+         <mask id="mask11">
+          <g>
+           <defs>
+            <linearGradient id="gradient11" x1="10550" y1="3491" x2="10550" y2="3704" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient11)" d="M 9269,3491 L 11832,3491 11832,3704 9269,3704 9269,3491 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask11)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 9375,3597 L 11726,3598"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 9375,3533 L 11726,3534"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id14">
+        <rect class="BoundingBox" stroke="none" fill="none" x="6933" y="351" width="214" height="1097"/>
+        <defs>
+         <mask id="mask12">
+          <g>
+           <defs>
+            <linearGradient id="gradient12" x1="7039" y1="416" x2="7039" y2="1447" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient12)" d="M 6933,416 L 7146,416 7146,1447 6933,1447 6933,416 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask12)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 7039,522 L 7040,1341"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 7039,458 L 7040,1277"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id15">
+        <rect class="BoundingBox" stroke="none" fill="none" x="6933" y="2043" width="214" height="1097"/>
+        <defs>
+         <mask id="mask13">
+          <g>
+           <defs>
+            <linearGradient id="gradient13" x1="7039" y1="2108" x2="7039" y2="3139" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient13)" d="M 6933,2108 L 7146,2108 7146,3139 6933,3139 6933,2108 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask13)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 7039,2214 L 7040,3033"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 7039,2150 L 7040,2969"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id16">
+        <rect class="BoundingBox" stroke="none" fill="none" x="9297" y="2082" width="214" height="1097"/>
+        <defs>
+         <mask id="mask14">
+          <g>
+           <defs>
+            <linearGradient id="gradient14" x1="9403" y1="2147" x2="9403" y2="3178" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient14)" d="M 9297,2147 L 9510,2147 9510,3178 9297,3178 9297,2147 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask14)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 9403,2253 L 9404,3072"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 9403,2189 L 9404,3008"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id17">
+        <rect class="BoundingBox" stroke="none" fill="none" x="4584" y="2043" width="214" height="1097"/>
+        <defs>
+         <mask id="mask15">
+          <g>
+           <defs>
+            <linearGradient id="gradient15" x1="4690" y1="2108" x2="4690" y2="3139" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient15)" d="M 4584,2108 L 4797,2108 4797,3139 4584,3139 4584,2108 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask15)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 4690,2214 L 4691,3033"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 4690,2150 L 4691,2969"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id18">
+        <rect class="BoundingBox" stroke="none" fill="none" x="9269" y="3389" width="214" height="1097"/>
+        <defs>
+         <mask id="mask16">
+          <g>
+           <defs>
+            <linearGradient id="gradient16" x1="9375" y1="3454" x2="9375" y2="4485" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient16)" d="M 9269,3454 L 9482,3454 9482,4485 9269,4485 9269,3454 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask16)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 9375,3560 L 9376,4379"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 9375,3496 L 9376,4315"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id19">
+        <rect class="BoundingBox" stroke="none" fill="none" x="821" y="142" width="1800" height="1163"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Calibri, sans-serif" font-size="450px" font-weight="700"><tspan class="TextPosition" x="1071" y="1043"><tspan font-size="776px" fill="rgb(255,255,255)" stroke="none">x</tspan></tspan><tspan class="TextPosition" y="1299"><tspan fill="rgb(255,255,255)" stroke="none">0</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id20">
+        <rect class="BoundingBox" stroke="none" fill="none" x="732" y="1865" width="1978" height="1159"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Calibri, sans-serif" font-size="450px" font-weight="700"><tspan class="TextPosition" x="982" y="2766"><tspan font-size="776px" fill="rgb(255,255,255)" stroke="none">x</tspan></tspan><tspan class="TextPosition" y="3022"><tspan fill="rgb(255,255,255)" stroke="none">1</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id21">
+        <rect class="BoundingBox" stroke="none" fill="none" x="15" y="3451" width="3253" height="1012"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Calibri, sans-serif" font-size="706px" font-weight="700"><tspan class="TextPosition" x="265" y="4282"><tspan fill="rgb(255,255,255)" stroke="none">AND</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id22">
+        <rect class="BoundingBox" stroke="none" fill="none" x="2246" y="5742" width="2592" height="279"/>
+        <defs>
+         <mask id="mask17">
+          <g>
+           <defs>
+            <linearGradient id="gradient17" x1="3541" y1="5807" x2="3541" y2="6020" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient17)" d="M 2246,5807 L 4837,5807 4837,6020 2246,6020 2246,5807 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask17)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 2352,5913 L 4731,5914"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 2352,5849 L 4731,5850"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id23">
+        <rect class="BoundingBox" stroke="none" fill="none" x="4584" y="4962" width="4912" height="279"/>
+        <defs>
+         <mask id="mask18">
+          <g>
+           <defs>
+            <linearGradient id="gradient18" x1="7039" y1="5027" x2="7039" y2="5240" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient18)" d="M 4584,5027 L 9495,5027 9495,5240 4584,5240 4584,5027 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask18)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 4690,5133 L 9389,5134"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 4690,5069 L 9389,5070"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id24">
+        <rect class="BoundingBox" stroke="none" fill="none" x="9283" y="4962" width="2563" height="279"/>
+        <defs>
+         <mask id="mask19">
+          <g>
+           <defs>
+            <linearGradient id="gradient19" x1="10564" y1="5027" x2="10564" y2="5240" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient19)" d="M 9283,5027 L 11845,5027 11845,5240 9283,5240 9283,5027 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask19)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 9389,5133 L 11739,5134"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 9389,5069 L 11739,5070"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id25">
+        <rect class="BoundingBox" stroke="none" fill="none" x="4625" y="4923" width="214" height="1097"/>
+        <defs>
+         <mask id="mask20">
+          <g>
+           <defs>
+            <linearGradient id="gradient20" x1="4731" y1="4988" x2="4731" y2="6019" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient20)" d="M 4625,4988 L 4838,4988 4838,6019 4625,6019 4625,4988 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask20)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 4731,5094 L 4732,5913"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 4731,5030 L 4732,5849"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id26">
+        <rect class="BoundingBox" stroke="none" fill="none" x="306" y="4707" width="2367" height="1012"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Calibri, sans-serif" font-size="776px" font-weight="700"><tspan class="TextPosition" x="556" y="5608"><tspan fill="rgb(255,255,255)" stroke="none">OR</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id27">
+        <rect class="BoundingBox" stroke="none" fill="none" x="2206" y="7050" width="2592" height="279"/>
+        <defs>
+         <mask id="mask21">
+          <g>
+           <defs>
+            <linearGradient id="gradient21" x1="3501" y1="7115" x2="3501" y2="7328" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient21)" d="M 2206,7115 L 4797,7115 4797,7328 2206,7328 2206,7115 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask21)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 2312,7221 L 4691,7222"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 2312,7157 L 4691,7158"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id28">
+        <rect class="BoundingBox" stroke="none" fill="none" x="4542" y="6269" width="4914" height="279"/>
+        <defs>
+         <mask id="mask22">
+          <g>
+           <defs>
+            <linearGradient id="gradient22" x1="6998" y1="6334" x2="6998" y2="6547" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient22)" d="M 4542,6334 L 9455,6334 9455,6547 4542,6547 4542,6334 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask22)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 4648,6440 L 9349,6441"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 4648,6376 L 9349,6377"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id29">
+        <rect class="BoundingBox" stroke="none" fill="none" x="9243" y="6969" width="2563" height="279"/>
+        <defs>
+         <mask id="mask23">
+          <g>
+           <defs>
+            <linearGradient id="gradient23" x1="10524" y1="7034" x2="10524" y2="7247" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient23)" d="M 9243,7034 L 11805,7034 11805,7247 9243,7247 9243,7034 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask23)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 9349,7140 L 11699,7141"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 9349,7076 L 11699,7077"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id30">
+        <rect class="BoundingBox" stroke="none" fill="none" x="4585" y="6231" width="214" height="1097"/>
+        <defs>
+         <mask id="mask24">
+          <g>
+           <defs>
+            <linearGradient id="gradient24" x1="4691" y1="6296" x2="4691" y2="7327" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient24)" d="M 4585,6296 L 4798,6296 4798,7327 4585,7327 4585,6296 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask24)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 4691,6402 L 4692,7221"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 4691,6338 L 4692,7157"/>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.CustomShape">
+       <g id="id31">
+        <rect class="BoundingBox" stroke="none" fill="none" x="44" y="6155" width="3067" height="1012"/>
+        <text class="TextShape"><tspan class="TextParagraph" font-family="Calibri, sans-serif" font-size="706px" font-weight="700"><tspan class="TextPosition" x="294" y="6986"><tspan fill="rgb(255,255,255)" stroke="none">XOR</tspan></tspan></tspan></text>
+       </g>
+      </g>
+      <g class="com.sun.star.drawing.LineShape">
+       <g id="id32">
+        <rect class="BoundingBox" stroke="none" fill="none" x="9283" y="6231" width="214" height="1097"/>
+        <defs>
+         <mask id="mask25">
+          <g>
+           <defs>
+            <linearGradient id="gradient25" x1="9389" y1="6296" x2="9389" y2="7327" gradientUnits="userSpaceOnUse">
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="0.5" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+             <stop offset="1" style="stop-color:rgb(166,166,166)"/>
+            </linearGradient>
+           </defs>
+           <path style="fill:url(#gradient25)" d="M 9283,6296 L 9496,6296 9496,7327 9283,7327 9283,6296 Z"/>
+          </g>
+         </mask>
+        </defs>
+        <g style="mask:url(#mask25)">
+         <path fill="none" stroke="rgb(0,0,0)" stroke-width="212" stroke-linejoin="round" d="M 9389,6402 L 9390,7221"/>
+        </g>
+        <path fill="none" stroke="rgb(79,129,189)" stroke-width="212" stroke-linejoin="round" d="M 9389,6338 L 9390,7157"/>
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
