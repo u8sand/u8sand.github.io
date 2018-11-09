@@ -6,5 +6,3 @@ tags: school hardware
 ---
 
 The paper can be found [here](/assets/2016-12-01-antenna-project/project.pdf).
-
-TODO: more about the project
