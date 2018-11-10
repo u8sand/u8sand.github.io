@@ -8,7 +8,7 @@ printable: true
 ---
 
 {::options parse_block_html="true" /}
-<div style="page-break-inside:avoid; margin-top: 2rem;">
+<div style="page-break-inside: avoid; margin-top: 2rem;">
 
 ### SUMMARY
 ---
@@ -16,7 +16,7 @@ My name is Daniel J. B. Clarke. An active programmer presently seeking admittanc
 
 </div>
 
-<div style="page-break-inside:avoid; margin-top: 2rem;">
+<div style="page-break-inside: avoid; margin-top: 2rem;">
 
 ### EDUCATION
 ---
@@ -37,15 +37,13 @@ Magna Cum Laude, Global Scholars, Spring 2017
 #### PRESENT
 
 **Associate Biomedical Software Developer**, *Ma’ayan Laboratory of Computational Systems Biology, Icahn School of Medicine at Mount Sinai in New York*  
-February 2016 - Present
+February 2018 - Present
 
 - Conduct research and development of biomedical software applications
-- Active lead developer for several NIH-funded projects
-  - NIH Data Commons FAIRshake
-  - NIH IDG: X2Kweb
-  - BD2K-LINCS DCIC: Signature Commons
+- Active involvement and developer lead for several NIH-funded projects including: Data Commons, BD2K-LINCS DCIC, IDG
+- Work publicly available: <https://fairshake.cloud/> <https://github.com/dcic/signature-commons-schema> <https://github.com/dcic/signature-commons-metadata-api> <https://github.com/u8sand/pyswaggerclient> <http://x2k.cloud/>
 
-<div style="page-break-inside:avoid">
+<div style="page-break-inside: avoid">
 
 #### PREVIOUS
 
@@ -53,6 +51,7 @@ February 2016 - Present
 Summer 2014, Fall 2017 - December 2017
 
 - Conducted research in planning and implementing a virtual Cyber Defense and Forensics Laboratory
+- Incorporated concepts from cybersecurity, embedded systems, and IoT in developed labs
 
 **Student Tutor, *Fairleigh Dickinson University*,** *Teaneck NJ*  
 Fall 2016 - Spring 2017
@@ -80,12 +79,11 @@ Summer 2013
 - Re-engineered existing proprietary security application interfaces for extended use cases
 - Modified embedded device system firmware
 - Assisted front-end developers by shaping a backend API to meet application requirements
-- Documented application dependencies, use cases, and work-flow
 
 </div>
 </div>
 
-<div style="page-break-inside:avoid; margin-top: 2rem;">
+<div style="page-break-inside: avoid; margin-top: 2rem;">
 
 ### AWARDS AND HONORS
 ---
@@ -128,20 +126,10 @@ Ravishankar Rao A., Clarke D. (2018) Facilitating the Exploration of Open Health
 Nandikotkur et al. (2016). A Spectral Variability Study Using the Entire FERMI Data from the Blazar 3C 454.3, <http://adsabs.harvard.edu/abs/2016AAS...22831410N>
 </div>
 
-<div style="page-break-inside:avoid; margin-top: 2rem;">
+<div style="page-break-inside: avoid; margin-top: 2rem;">
 
 ### TECHNICAL SKILLS AND HOBBIES
 ---
-
-**Amateur Radio License**, *Technician*, KD2IQK  
-Spring 2015
-
-**Baka MPlayer**, <http://bakamplayer.u8sand.net/>  
-Summer 2014 - Current
-
-- Lead programmer, maintainer, and manager
-- Contributed to dependent projects including mpv and qt
-- Collaborated with UX designer and open source community
 
 **Open Source Software Development** <http://github.com/u8sand/>  
 2007 - Current
@@ -151,6 +139,16 @@ Summer 2014 - Current
   - Unix: awk, sed, rsync, iptables, bpf, git, gdb, radare
   - C/C++; stl (c++11), boost, win32, .NET, Qt, CMake, OGRE, DirectX
   - Python3; pandas, sklearn, networkx, django, selenium, scapy, tensorflow
-  - HTML/Javascript; jQuery, Node, React, Loopback, Jekyll, latex, mathjax
+  - HTML/Javascript; jQuery, Node, Typescript, React, Loopback, Jekyll, latex, mathjax
+
+**Baka MPlayer**, <http://bakamplayer.u8sand.net/>  
+Summer 2014 - Winter 2017
+
+- Lead programmer, maintainer, and manager
+- Contributed to dependent projects including mpv and qt
+- Collaborated with UX designer and open source community
+
+**Amateur Radio License**, *Technician*, KD2IQK  
+Spring 2015
 
 </div>
