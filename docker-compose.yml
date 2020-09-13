@@ -1,9 +1,7 @@
 version: '3'
 services:
   system:
-    image: jekyll/jekyll
-    command: "jekyll server"
-    volumes:
-      - "./:/srv/jekyll"
+    build: .
+    image: u8sand/u8sand-net:latest
     ports:
       - 4000:4000
