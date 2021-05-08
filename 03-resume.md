@@ -41,7 +41,7 @@ February 2018 - Present
 
 - Conduct research and development of biomedical software applications
 - Active involvement and developer lead for several NIH-funded projects including: Data Commons, BD2K-LINCS DCIC, IDG
-- Work publicly available: <https://fairshake.cloud/> <https://github.com/dcic/signature-commons-schema> <https://github.com/dcic/signature-commons-metadata-api> <https://github.com/u8sand/pyswaggerclient> <http://x2k.cloud/>
+- Work publicly available: <https://appyters.maayanlab.cloud/> <https://fairshake.cloud/> <https://maayanlab.cloud/X2K/> <https://github.com/maayanlab/signature-commons> <https://github.com/u8sand/pyswaggerclient>
 
 <div style="page-break-inside: avoid">
 
@@ -131,7 +131,7 @@ Nandikotkur et al. (2016). A Spectral Variability Study Using the Entire FERMI D
 ### TECHNICAL SKILLS AND HOBBIES
 ---
 
-**Open Source Software Development** <http://github.com/u8sand/>  
+**Open Source Software Development** <https://github.com/u8sand/>  
 2007 - Current
 
 - Research, led, and developed a wide variety of [projects](/projects)
@@ -141,7 +141,7 @@ Nandikotkur et al. (2016). A Spectral Variability Study Using the Entire FERMI D
   - Python3; pandas, sklearn, networkx, django, selenium, scapy, tensorflow
   - HTML/Javascript; jQuery, Node, Typescript, React, Loopback, Jekyll, latex, mathjax
 
-**Baka MPlayer**, <http://bakamplayer.u8sand.net/>  
+**Baka MPlayer**, <https://u8sand.github.io/Baka-MPlayer/>  
 Summer 2014 - Winter 2017
 
 - Lead programmer, maintainer, and manager
