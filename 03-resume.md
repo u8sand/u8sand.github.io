@@ -34,6 +34,8 @@ Magna Cum Laude, Global Scholars, Spring 2017
 ### EMPLOYMENT
 ---
 
+<div style="page-break-inside: avoid;">
+
 #### PRESENT
 
 **Data Science Analyst**, *Ma’ayan Laboratory of Computational Systems Biology, Icahn School of Medicine at Mount Sinai in New York*  
@@ -43,15 +45,23 @@ February 2018 - Present
 - Active involvement and developer lead for several NIH-funded projects including: Data Commons, BD2K-LINCS DCIC, IDG, CFDE
 - Work is open source and publicly available: <https://appyters.maayanlab.cloud/> <https://fairshake.cloud/> <https://maayanlab.cloud/X2K/> <https://maayanlab.cloud/sigcom-lincs/>
 
+</div>
+
 <div style="page-break-inside: avoid">
 
 #### PREVIOUS
+
+<div style="page-break-inside: avoid;">
 
 **Cyberlab Research and Development, *Center for Cybersecurity and Information Assurance, Fairleigh Dickinson University*,** *Teaneck NJ*  
 Summer 2014, Fall 2017 - December 2017
 
 - Conducted research in planning and implementing a virtual Cyber Defense and Forensics Laboratory
 - Incorporated concepts from cybersecurity, embedded systems, and IoT in developed labs
+
+</div>
+
+<div style="page-break-inside: avoid;">
 
 **Student Tutor, *Fairleigh Dickinson University*,** *Teaneck NJ*  
 Fall 2016 - Spring 2017
@@ -60,6 +70,10 @@ Fall 2016 - Spring 2017
 - Typically tutored higher level math/engineering courses including but not limited to:
   - Calculus 2 & 3, Signals and Systems I & II, Physics I & II, Electronics II, & III
 
+</div>
+
+<div style="page-break-inside: avoid;">
+
 **BD2K-LINCS Summer Research in Biomedical Big Data Science**, *Ma’ayan Laboratory of Computational Systems Biology, Icahn School of Medicine at Mount Sinai in New York*  
 Summer 2016
 
@@ -67,11 +81,19 @@ Summer 2016
 - Applied big data analytics to make novel predictions with large genomics datasets
 - Work publicly available: <http://adhesome.org/> <https://github.com/MaayanLab/adhesome> <https://github.com/MaayanLab/GenesToWordCloud>
 
+</div>
+
+<div style="page-break-inside: avoid;">
+
 **Student Worker, *Grants and Sponsored Projects, Fairleigh Dickinson University*,** *Teaneck NJ*  
 Summer 2015 - Summer 2017
 
 - Created a data acquisition and reformatting pipeline for cybersecurity and grants websites
 - Assisted with Annual Cybersecurity Symposiums and NSA National Centers of Academic Excellence in Information Assurance/Cyber Defense designation
+
+</div>
+
+<div style="page-break-inside: avoid;">
 
 **Intern, *NIKSUN, Inc***, *Princeton NJ*  
 Summer 2013
@@ -80,6 +102,7 @@ Summer 2013
 - Modified embedded device system firmware
 - Assisted front-end developers by shaping a backend API to meet application requirements
 
+</div>
 </div>
 </div>
 
@@ -102,7 +125,7 @@ Summer 2013
 
 </div>
 
-<div style="margin-top: 2rem;">
+<div style="page-break-inside: avoid; margin-top: 2rem;">
 
 ### PUBLICATIONS (ORCID **[0000-0003-3471-7416](https://orcid.org/0000-0003-3471-7416)**)
 ---
@@ -141,6 +164,8 @@ Nandikotkur, G., Gomez, D., Dovale, J., **Clarke, D.**, Komstead, K., Shah, R., 
 ### TECHNICAL SKILLS AND HOBBIES
 ---
 
+<div style="page-break-inside: avoid;">
+
 **Open Source Software Development** <https://github.com/u8sand/>  
 2007 - Current
 
@@ -153,6 +178,10 @@ Nandikotkur, G., Gomez, D., Dovale, J., **Clarke, D.**, Komstead, K., Shah, R., 
   - C/C++; c++11y, Qt, boost, win32, .NET, CMake, OGRE, DirectX
   - Other: Rust, WebAssembly, Haskell, Jekyll, Latex
 
+</div>
+
+<div style="page-break-inside: avoid;">
+
 **Baka MPlayer**, <https://u8sand.github.io/Baka-MPlayer/>  
 Summer 2014 - Winter 2017
 
@@ -160,7 +189,13 @@ Summer 2014 - Winter 2017
 - Contributed to dependent projects including mpv and qt
 - Collaborated with UX designer and open source community
 
+</div>
+
+<div style="page-break-inside: avoid;">
+
 **Amateur Radio License**, *Technician*, KD2IQK  
 Spring 2015
+
+</div>
 
 </div>
