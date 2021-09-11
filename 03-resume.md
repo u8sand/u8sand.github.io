@@ -136,10 +136,12 @@ Nandikotkur et al. (2016). A Spectral Variability Study Using the Entire FERMI D
 
 - Research, led, and developed a wide variety of [projects](/projects)
 - Was exposed to a substantial number of technologies and systems including but not limited to:
-  - Unix: awk, sed, rsync, iptables, bpf, git, gdb, radare
-  - C/C++; stl (c++11), boost, win32, .NET, Qt, CMake, OGRE, DirectX
-  - Python3; pandas, sklearn, networkx, django, selenium, scapy, tensorflow
-  - HTML/Javascript; jQuery, Node, Typescript, React, Loopback, Jekyll, latex, mathjax
+  - Python3; scipy, pandas, sklearn, tensorflow, asyncio, networkx, django, selenium, scapy
+  - HTML/Javascript; React, NodeJS, Typescript, ThreeJS, Loopback, mathjax, d3, jQuery
+  - DevOps: postgres, kubernetes, docker, vagrant, ansible, terraform, OpenAPI, CWL, JSON Schema
+  - Unix: awk, sed, rsync, rclone, iptables, bpf, git, perf, gdb, radare, jq
+  - C/C++; c++11y, Qt, boost, win32, .NET, CMake, OGRE, DirectX
+  - Other: Rust, WebAssembly, Haskell, Jekyll, Latex
 
 **Baka MPlayer**, <https://u8sand.github.io/Baka-MPlayer/>  
 Summer 2014 - Winter 2017
