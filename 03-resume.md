@@ -36,12 +36,12 @@ Magna Cum Laude, Global Scholars, Spring 2017
 
 #### PRESENT
 
-**Associate Biomedical Software Developer**, *Ma’ayan Laboratory of Computational Systems Biology, Icahn School of Medicine at Mount Sinai in New York*  
+**Data Science Analyst**, *Ma’ayan Laboratory of Computational Systems Biology, Icahn School of Medicine at Mount Sinai in New York*  
 February 2018 - Present
 
-- Conduct research and development of biomedical software applications
-- Active involvement and developer lead for several NIH-funded projects including: Data Commons, BD2K-LINCS DCIC, IDG
-- Work publicly available: <https://appyters.maayanlab.cloud/> <https://fairshake.cloud/> <https://maayanlab.cloud/X2K/> <https://github.com/maayanlab/signature-commons> <https://github.com/u8sand/pyswaggerclient>
+- Conduct research and develop biomedical software applications and infrastructure
+- Active involvement and developer lead for several NIH-funded projects including: Data Commons, BD2K-LINCS DCIC, IDG, CFDE
+- Work is open source and publicly available: <https://appyters.maayanlab.cloud/> <https://fairshake.cloud/> <https://maayanlab.cloud/X2K/> <https://maayanlab.cloud/sigcom-lincs/>
 
 <div style="page-break-inside: avoid">
 
