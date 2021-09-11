@@ -104,26 +104,36 @@ Summer 2013
 
 <div style="margin-top: 2rem;">
 
-### PUBLICATIONS
+### PUBLICATIONS (ORCID **[0000-0003-3471-7416](https://orcid.org/0000-0003-3471-7416)**)
 ---
 
-Daniel J B Clarke, Maxim V Kuleshov, Brian M Schilder, Denis Torre, Mary E Duffy, Alexandra B Keenan, Alexander Lachmann, Axel S Feldmann, Gregory W Gundersen, Moshe C Silverstein, Zichen Wang, Avi Ma’ayan; eXpression2Kinases (X2K) Web: linking expression signatures to upstream cell signaling networks, Nucleic Acids Research, Volume 46, Issue W1, 2 July 2018, Pages W171–W179, <https://doi.org/10.1093/nar/gky458>
+**Clarke, D. J. B.**, Jeon, M., Stein, D. J., Moiseyev, N., Kropiwnicki, E., Dai, C., Xie, Z., Wojciechowicz, M. L., Litz, S., Hom, J., Evangelista, J. E., Goldman, L., Zhang, S., Yoon, C., Ahamed, T., Bhuiyan, S., Cheng, M., Karam, J., Jagodnik, K. M., … Ma’ayan, A. (2021). Appyters: Turning Jupyter Notebooks into data-driven web apps. Patterns, 2(3), 100213. <https://doi.org/10.1016/j.patter.2021.100213>
 
-A. R. Rao, S. Garai, D. Clarke and S. Dey, "A system for exploring big data: an iterative k-means searchlight for outlier detection on open health data," 2018 International Joint Conference on Neural Networks (IJCNN), Rio de Janeiro, 2018, pp. 1-8, <https://doi.org/10.1109/IJCNN.2018.8489448>
+**Clarke, D. J. B.**, Rebman, A. W., Bailey, A., Wojciechowicz, M. L., Jenkins, S. L., Evangelista, J. E., Danieletto, M., Fan, J., Eshoo, M. W., Mosel, M. R., Robinson, W., Ramadoss, N., Bobe, J., Soloski, M. J., Aucott, J. N., & Ma’ayan, A. (2021). Predicting Lyme Disease From Patients’ Peripheral Blood Mononuclear Cells Profiled With RNA-Sequencing. Frontiers in Immunology, 12. <https://doi.org/10.3389/fimmu.2021.636289>
 
-A. R. Rao and D. Clarke, "A comparison of models to predict medical procedure costs from open public healthcare data," 2018 International Joint Conference on Neural Networks (IJCNN), Rio de Janeiro, 2018, pp. 1-8. <https://doi.org/10.1109/IJCNN.2018.8489257>
+Kuleshov, M. V., Stein, D. J., **Clarke, D. J. B.**, Kropiwnicki, E., Jagodnik, K. M., Bartal, A., Evangelista, J. E., Hom, J., Cheng, M., Bailey, A., Zhou, A., Ferguson, L. B., Lachmann, A., & Ma’ayan, A. (2020). The COVID-19 Drug and Gene Set Library. Patterns, 1(6), 100090. <https://doi.org/10.1016/j.patter.2020.100090>
 
-A. R. Rao, D. Clarke, M. Bhdiyadra and S. Phadke, "Development of an embedded system course to teach the Internet-of-Things," 2018 IEEE Integrated STEM Education Conference (ISEC), Princeton, NJ, 2018, pp. 154-160. <https://doi.org/10.1109/ISECon.2018.8340468>
+**Clarke, D. J. B.**, Wang, L., Jones, A., Wojciechowicz, M. L., Torre, D., Jagodnik, K. M., Jenkins, S. L., McQuilton, P., Flamholz, Z., Silverstein, M. C., Schilder, B. M., Robasky, K., Castillo, C., Idaszak, R., Ahalt, S. C., Williams, J., Schurer, S., Cooper, D. J., de Miranda Azevedo, R., … Ma’ayan, A. (2019). FAIRshake: Toolkit to Evaluate the FAIRness of Research Digital Resources. Cell Systems, 9(5), 417–421. <https://doi.org/10.1016/j.cels.2019.09.011>
 
-A. R. Rao and D. Clarke, "An open-source framework for the interactive exploration of Big Data: Applications in understanding health care," 2017 International Joint Conference on Neural Networks (IJCNN), Anchorage, AK, 2017, pp. 1641-1648, <https://doi.org/10.1109/IJCNN.2017.7966048>
+Rao, A.R., **Clarke, D**. Exploring relationships between medical college rankings and performance with big data. Big Data Anal 4, 3 (2019). <https://doi.org/10.1186/s41044-019-0040-9>
 
-A. R. Rao and D. Clarke, "A fully integrated open-source toolkit for mining healthcare big-data: architecture and applications," 2016 IEEE International Conference on Healthcare Informatics (ICHI), Chicago, IL, 2016, pp. 255-261, <https://doi.org/10.1109/ICHI.2016.35>
+**Clarke, D. J. B.**, Kuleshov, M. V., Schilder, B. M., Torre, D., Duffy, M. E., Keenan, A. B., Lachmann, A., Feldmann, A. S., Gundersen, G. W., Silverstein, M. C., Wang, Z., & Ma’ayan, A. (2018). eXpression2Kinases (X2K) Web: linking expression signatures to upstream cell signaling networks. Nucleic Acids Research, 46(W1), W171–W179. <https://doi.org/10.1093/nar/gky458>
 
-A. Ravishankar Rao & Daniel Clarke (2018) Hiding in Plain Sight: Insights about Health-Care Trends Gained through Open Health Data, Journal of Technology in Human Services, 36:1, 48-55, <https://doi.org/10.1080/15228835.2017.1416515>
+A. R. Rao, S. Garai, **D. Clarke** and S. Dey, "A system for exploring big data: an iterative k-means searchlight for outlier detection on open health data," 2018 International Joint Conference on Neural Networks (IJCNN), Rio de Janeiro, 2018, pp. 1-8, <https://doi.org/10.1109/IJCNN.2018.8489448>
 
-Ravishankar Rao A., Clarke D. (2018) Facilitating the Exploration of Open Health-Care Data Through BOAT: A Big Data Open Source Analytics Tool. In: Tadj L., Garg A. (eds) Emerging Challenges in Business, Optimization, Technology, and Industry. Springer Proceedings in Business and Economics. Springer, Cham, <https://doi.org/10.1007/978-3-319-58589-5_7>
+A. R. Rao and **D. Clarke**, "A comparison of models to predict medical procedure costs from open public healthcare data," 2018 International Joint Conference on Neural Networks (IJCNN), Rio de Janeiro, 2018, pp. 1-8. <https://doi.org/10.1109/IJCNN.2018.8489257>
 
-Nandikotkur et al. (2016). A Spectral Variability Study Using the Entire FERMI Data from the Blazar 3C 454.3, <http://adsabs.harvard.edu/abs/2016AAS...22831410N>
+A. R. Rao, **D. Clarke**, M. Bhdiyadra and S. Phadke, "Development of an embedded system course to teach the Internet-of-Things," 2018 IEEE Integrated STEM Education Conference (ISEC), Princeton, NJ, 2018, pp. 154-160. <https://doi.org/10.1109/ISECon.2018.8340468>
+
+A. R. Rao and **D. Clarke**, "An open-source framework for the interactive exploration of Big Data: Applications in understanding health care," 2017 International Joint Conference on Neural Networks (IJCNN), Anchorage, AK, 2017, pp. 1641-1648, <https://doi.org/10.1109/IJCNN.2017.7966048>
+
+A. R. Rao and **D. Clarke**, "A fully integrated open-source toolkit for mining healthcare big-data: architecture and applications," 2016 IEEE International Conference on Healthcare Informatics (ICHI), Chicago, IL, 2016, pp. 255-261, <https://doi.org/10.1109/ICHI.2016.35>
+
+A. Ravishankar Rao & **Daniel Clarke** (2018) Hiding in Plain Sight: Insights about Health-Care Trends Gained through Open Health Data, Journal of Technology in Human Services, 36:1, 48-55, <https://doi.org/10.1080/15228835.2017.1416515>
+
+Ravishankar Rao A., **Clarke D.** (2018) Facilitating the Exploration of Open Health-Care Data Through BOAT: A Big Data Open Source Analytics Tool. In: Tadj L., Garg A. (eds) Emerging Challenges in Business, Optimization, Technology, and Industry. Springer Proceedings in Business and Economics. Springer, Cham, <https://doi.org/10.1007/978-3-319-58589-5_7>
+
+Nandikotkur, G., Gomez, D., Dovale, J., **Clarke, D.**, Komstead, K., Shah, R., & Aboasu, S. (2016). A Spectral Variability Study Using the Entire FERMI Data from the Blazar 3C 454.3. In American Astronomical Society Meeting Abstracts #228 (pp. 314.10). <http://adsabs.harvard.edu/abs/2016AAS...22831410N>
 </div>
 
 <div style="page-break-inside: avoid; margin-top: 2rem;">
