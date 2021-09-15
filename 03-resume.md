@@ -142,19 +142,19 @@ Rao, A.R., **Clarke, D**. Exploring relationships between medical college rankin
 
 **Clarke, D. J. B.**, Kuleshov, M. V., Schilder, B. M., Torre, D., Duffy, M. E., Keenan, A. B., Lachmann, A., Feldmann, A. S., Gundersen, G. W., Silverstein, M. C., Wang, Z., & Ma’ayan, A. (2018). eXpression2Kinases (X2K) Web: linking expression signatures to upstream cell signaling networks. Nucleic Acids Research, 46(W1), W171–W179. <https://doi.org/10.1093/nar/gky458>
 
+A. R. Rao, **D. Clarke**, M. Bhdiyadra and S. Phadke, "Development of an embedded system course to teach the Internet-of-Things," 2018 IEEE Integrated STEM Education Conference (ISEC), Princeton, NJ, 2018, pp. 154-160. <https://doi.org/10.1109/ISECon.2018.8340468>
+
 A. R. Rao, S. Garai, **D. Clarke** and S. Dey, "A system for exploring big data: an iterative k-means searchlight for outlier detection on open health data," 2018 International Joint Conference on Neural Networks (IJCNN), Rio de Janeiro, 2018, pp. 1-8, <https://doi.org/10.1109/IJCNN.2018.8489448>
 
 A. R. Rao and **D. Clarke**, "A comparison of models to predict medical procedure costs from open public healthcare data," 2018 International Joint Conference on Neural Networks (IJCNN), Rio de Janeiro, 2018, pp. 1-8. <https://doi.org/10.1109/IJCNN.2018.8489257>
 
-A. R. Rao, **D. Clarke**, M. Bhdiyadra and S. Phadke, "Development of an embedded system course to teach the Internet-of-Things," 2018 IEEE Integrated STEM Education Conference (ISEC), Princeton, NJ, 2018, pp. 154-160. <https://doi.org/10.1109/ISECon.2018.8340468>
+A. Ravishankar Rao & **Daniel Clarke** (2018) Hiding in Plain Sight: Insights about Health-Care Trends Gained through Open Health Data, Journal of Technology in Human Services, 36:1, 48-55, <https://doi.org/10.1080/15228835.2017.1416515>
+
+Ravishankar Rao A., **Clarke D.** (2018) Facilitating the Exploration of Open Health-Care Data Through BOAT: A Big Data Open Source Analytics Tool. In: Tadj L., Garg A. (eds) Emerging Challenges in Business, Optimization, Technology, and Industry. Springer Proceedings in Business and Economics. Springer, Cham, <https://doi.org/10.1007/978-3-319-58589-5_7>
 
 A. R. Rao and **D. Clarke**, "An open-source framework for the interactive exploration of Big Data: Applications in understanding health care," 2017 International Joint Conference on Neural Networks (IJCNN), Anchorage, AK, 2017, pp. 1641-1648, <https://doi.org/10.1109/IJCNN.2017.7966048>
 
 A. R. Rao and **D. Clarke**, "A fully integrated open-source toolkit for mining healthcare big-data: architecture and applications," 2016 IEEE International Conference on Healthcare Informatics (ICHI), Chicago, IL, 2016, pp. 255-261, <https://doi.org/10.1109/ICHI.2016.35>
-
-A. Ravishankar Rao & **Daniel Clarke** (2018) Hiding in Plain Sight: Insights about Health-Care Trends Gained through Open Health Data, Journal of Technology in Human Services, 36:1, 48-55, <https://doi.org/10.1080/15228835.2017.1416515>
-
-Ravishankar Rao A., **Clarke D.** (2018) Facilitating the Exploration of Open Health-Care Data Through BOAT: A Big Data Open Source Analytics Tool. In: Tadj L., Garg A. (eds) Emerging Challenges in Business, Optimization, Technology, and Industry. Springer Proceedings in Business and Economics. Springer, Cham, <https://doi.org/10.1007/978-3-319-58589-5_7>
 
 Nandikotkur, G., Gomez, D., Dovale, J., **Clarke, D.**, Komstead, K., Shah, R., & Aboasu, S. (2016). A Spectral Variability Study Using the Entire FERMI Data from the Blazar 3C 454.3. In American Astronomical Society Meeting Abstracts #228 (pp. 314.10). <http://adsabs.harvard.edu/abs/2016AAS...22831410N>
 </div>
