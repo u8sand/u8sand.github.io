@@ -24,9 +24,8 @@ My name is Daniel J. B. Clarke. An active programmer presently seeking admittanc
 **MS Computer Engineering**, *Fairleigh Dickinson University, Teaneck NJ*  
 Spring 2017
 
-**BS Electrical Engineering**, *Fairleigh Dickinson University, Teaneck NJ*  
-Magna Cum Laude, Global Scholars, Spring 2017  
-Minor in Computer Science & Mathematics
+**BS Electrical Engineering**, Minor in Computer Science & Mathematics, *Fairleigh Dickinson University, Teaneck NJ*  
+Magna Cum Laude, Global Scholars, Spring 2017
 
 </div>
 
