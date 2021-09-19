@@ -138,6 +138,8 @@ Kuleshov, M. V., Stein, D. J., **Clarke, D. J. B.**, Kropiwnicki, E., Jagodnik, 
 
 *Hoagland, D. A., **Clarke, D. J. B.**, Møller, R., Han, Y., Yang, L., Wojciechowicz, M. L., Lachmann, A., Oguntuyo, K. Y., Stevens, C., Lee, B., Chen, S., Ma’ayan, A., & tenOever, B. R. (2020). Modulating the transcriptional landscape of SARS-CoV-2 as an effective method for developing antiviral compounds. Cold Spring Harbor Laboratory. https://doi.org/10.1101/2020.07.12.199687* (Preprint)
 
+Rao, A. R., & **Clarke, D.** (2020). Perspectives on emerging directions in using IoT devices in blockchain applications. Internet of Things, 10, 100079. <https://doi.org/10.1016/j.iot.2019.100079>
+
 **Clarke, D. J. B.**, Wang, L., Jones, A., Wojciechowicz, M. L., Torre, D., Jagodnik, K. M., Jenkins, S. L., McQuilton, P., Flamholz, Z., Silverstein, M. C., Schilder, B. M., Robasky, K., Castillo, C., Idaszak, R., Ahalt, S. C., Williams, J., Schurer, S., Cooper, D. J., de Miranda Azevedo, R., … Ma’ayan, A. (2019). FAIRshake: Toolkit to Evaluate the FAIRness of Research Digital Resources. Cell Systems, 9(5), 417–421. <https://doi.org/10.1016/j.cels.2019.09.011>
 
 Rao, A.R., **Clarke, D**. Exploring relationships between medical college rankings and performance with big data. Big Data Anal 4, 3 (2019). <https://doi.org/10.1186/s41044-019-0040-9>
