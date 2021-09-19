@@ -26,6 +26,7 @@ Spring 2017
 
 **BS Electrical Engineering**, *Fairleigh Dickinson University, Teaneck NJ*  
 Magna Cum Laude, Global Scholars, Spring 2017  
+Minor in Computer Science & Mathematics
 
 </div>
 
@@ -43,7 +44,7 @@ February 2018 - Present
 
 - Conduct research and develop biomedical software applications and infrastructure
 - Active involvement and developer lead for several NIH-funded projects including: Data Commons, BD2K-LINCS DCIC, IDG, CFDE
-- Work is open source and publicly available: <https://appyters.maayanlab.cloud/> <https://fairshake.cloud/> <https://maayanlab.cloud/X2K/> <https://maayanlab.cloud/sigcom-lincs/>
+- Work is open source and publicly available: <https://appyters.maayanlab.cloud/> <https://maayanlab.cloud/sigcom-lincs/> <https://fairshake.cloud/> <https://maayanlab.cloud/X2K/>
 
 </div>
 
@@ -113,15 +114,14 @@ Summer 2013
 
 - **1st Place Winner:** IEEE Region 1 Student Paper Competition 2017
 - **1st Place Winner:** FDU IEEE Local Student Paper Competition 2017
-- **1st Place Winner:** IEEE Region 1 Student Ethics Competition 2015
-- **1st Place Winner:** FDU Cybersecurity Symposium Poster Competition 2014
-- **15th Place Winner:** NJ Governors Cyber Challenge 2013
 - **Radio Club of America Scholarship** 2016
 - **Outstanding Poster Award**: LSAMP Research Conference 2016
-- **IEEEXtreme Competitor**: Team Marshmallow 2012 - 2016
+- **1st Place Winner:** IEEE Region 1 Student Ethics Competition 2015
 - **Editor and Writer, FDU Equinox**: Student Newspaper 2015 - 2017
+- **1st Place Winner:** FDU Cybersecurity Symposium Poster Competition 2014
 - **President, FDU Green Team**: Campus Environmental Advocacy Club 2014 - 2016
-- **FDU Global Scholar**, 2012 - 2017
+- **15th Place Winner:** NJ Governors Cyber Challenge 2013
+- **IEEEXtreme Competitor**: Team Marshmallow 2012 - 2016
 
 </div>
 
@@ -197,7 +197,7 @@ Summer 2014 - Winter 2017
 
 <div style="page-break-inside: avoid;">
 
-**Amateur Radio License**, *Technician*, KD2IQK  
+**Amateur Radio License**, *Technician*, Call sign: KD2IQK  
 Spring 2015
 
 </div>
