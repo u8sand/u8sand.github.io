@@ -135,7 +135,7 @@ Summer 2013
 
 Kuleshov, M. V., Stein, D. J., **Clarke, D. J. B.**, Kropiwnicki, E., Jagodnik, K. M., Bartal, A., Evangelista, J. E., Hom, J., Cheng, M., Bailey, A., Zhou, A., Ferguson, L. B., Lachmann, A., & Ma’ayan, A. (2020). The COVID-19 Drug and Gene Set Library. Patterns, 1(6), 100090. <https://doi.org/10.1016/j.patter.2020.100090>
 
-*Hoagland, D. A., **Clarke, D. J. B.**, Møller, R., Han, Y., Yang, L., Wojciechowicz, M. L., Lachmann, A., Oguntuyo, K. Y., Stevens, C., Lee, B., Chen, S., Ma’ayan, A., & tenOever, B. R. (2020). Modulating the transcriptional landscape of SARS-CoV-2 as an effective method for developing antiviral compounds. Cold Spring Harbor Laboratory. https://doi.org/10.1101/2020.07.12.199687* (Preprint)
+*Hoagland, D. A., **Clarke, D. J. B.**, Møller, R., Han, Y., Yang, L., Wojciechowicz, M. L., Lachmann, A., Oguntuyo, K. Y., Stevens, C., Lee, B., Chen, S., Ma’ayan, A., & tenOever, B. R. (2020). Modulating the transcriptional landscape of SARS-CoV-2 as an effective method for developing antiviral compounds. Cold Spring Harbor Laboratory. <https://doi.org/10.1101/2020.07.12.199687>* (Preprint)
 
 Rao, A. R., & **Clarke, D.** (2020). Perspectives on emerging directions in using IoT devices in blockchain applications. Internet of Things, 10, 100079. <https://doi.org/10.1016/j.iot.2019.100079>
 
