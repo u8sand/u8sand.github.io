@@ -7,9 +7,22 @@ heading: "Daniel J. B. Clarke"
 printable: true
 ---
 
+{::options parse_block_html="true" /}
+<div style="page-break-inside: avoid;">
+
+**Email**: <danieljbclarke@gmail.com>  
+**Phone**: [201-357-7356](tel:201-357-7356)  
+**Website**: [u8sand.github.io](https://u8sand.github.io)
+
+</div>
+
+<div style="page-break-inside: avoid; margin-top: 2rem;">
+
 ### SUMMARY
 ---
-My name is Daniel J. B. Clarke. An active programmer presently seeking admittance into graduate school. I received a BS in Electrical Engineering and a MS in Computer Engineering in May 2017. With more than a decade of independent programming experience, several summers of industry and research experience in software engineering, and training as an Electrical Engineering student heavily involved in research and competitions, I have a broad exposure to the hardware-software stack and have research interests ranging from big data analytics to analog circuit design with focuses on machine learning, artificial intelligence, and cybersecurity, and in particular, I am most interested in the places where they come together. More recently, I've become interested in exploring federated deep learning by means of collaborative multi-agent reinforcement learning.
+My name is Daniel J. B. Clarke. I'm an open source enthusiast and data scientist currently working in the [Ma'ayan Lab](https://labs.icahn.mssm.edu/maayanlab/) at the [Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu/). I received a BS in Electrical Engineering and a MS in Computer Engineering in May 2017 from [Fairleigh Dickinson University](https://www.fdu.edu/). Since then, I've been building and maintaining bioinformatics web applications and conducting bioinformatics research mostly around open source tools, web applications, and accessible data. I've been applying standard machine learning approaches for the purpose of knowledge inference and more recently biomarker identification.
+
+Recent advances in machine learning have renewed my strong interest in the field, prompting me to educate myself on methods in deep learning and dabble in zero-shot learning for functional prediction using multi-omics data, parametric dimensionality reduction for updatable TSNE or UMAP visualizations of genomic data, graph neural networks for predictions on knowledge graphs and other directions. After spending time exploring the landscape of deep learning, I find myself particularly intrigued and excited about Energy Based Models and Reinforcement Learning. I hope to persue a PhD in the area and make meaningful contributions to the field.
 
 </div>
 
@@ -26,7 +39,7 @@ Magna Cum Laude, Global Scholars, Spring 2017
 
 </div>
 
-<div style="margin-top: 2rem;">
+<div style="margin-top: 2rem; page-break-inside: avoid;">
 
 ### EMPLOYMENT
 ---
@@ -40,7 +53,7 @@ February 2018 - Present
 
 - Conduct research and develop biomedical software applications and infrastructure
 - Active involvement and developer lead for several NIH-funded projects including: Data Commons, BD2K-LINCS DCIC, IDG, CFDE
-- Work is open source and publicly available: <https://appyters.maayanlab.cloud/> <https://maayanlab.cloud/sigcom-lincs/> <https://fairshake.cloud/> <https://maayanlab.cloud/X2K/>
+- Work is open source and publicly available: [appyters.maayanlab.cloud](https://appyters.maayanlab.cloud/) [maayanlab.cloud/sigcom-lincs/](https://maayanlab.cloud/sigcom-lincs/) [fairshake.cloud](https://fairshake.cloud/) [maayanlab.cloud/X2K/](https://maayanlab.cloud/X2K/)
 
 </div>
 
@@ -76,7 +89,7 @@ Summer 2016
 
 - Built python-based web apps for biomedical applications
 - Applied big data analytics to make novel predictions with large genomics datasets
-- Work publicly available: <http://adhesome.org/> <https://github.com/MaayanLab/adhesome> <https://github.com/MaayanLab/GenesToWordCloud>
+- Work publicly available: [adhesome.org](http://adhesome.org/) [github.com/MaayanLab/adhesome](https://github.com/MaayanLab/adhesome) [github.com/MaayanLab/GenesToWordCloud](https://github.com/MaayanLab/GenesToWordCloud)
 
 </div>
 
@@ -110,6 +123,7 @@ Summer 2013
 
 - **1st Place Winner:** IEEE Region 1 Student Paper Competition 2017
 - **1st Place Winner:** FDU IEEE Local Student Paper Competition 2017
+- **BD2K-LINCS Data Coordination and Integration Center Summer Research Training Fellowship** 2016
 - **Radio Club of America Scholarship** 2016
 - **Outstanding Poster Award**: LSAMP Research Conference 2016
 - **1st Place Winner:** IEEE Region 1 Student Ethics Competition 2015
@@ -123,12 +137,27 @@ Summer 2013
 
 <div style="page-break-inside: avoid; margin-top: 2rem;">
 
-### PUBLICATIONS (ORCID **[0000-0003-3471-7416](https://orcid.org/0000-0003-3471-7416)**)
+<h3>PUBLICATIONS (ORCID <b><a href="https://orcid.org/0000-0003-3471-7416">0000-0003-3471-7416</a></b>)<span class="noprint">, <a href="https://scholar.google.com/citations?user=y8-c7TkAAAAJ">Google Scholars</a></span></h3>
+
 ---
+
+*Evangelista, J. E., **Clarke, D. J. B.**, Xie, Z., Marino, G. B., Utti, V., Ahooyi, T. M., Jenkins, S. L., Taylor, D., Bologa, C. G., Yang, J. J., Binder, J. L., Kumar, P., Lambert, C. G., Grethe, J. S., Wenger, E., Oprea, T. I., de Bono, B., & Ma’ayan, A. (2022). ReproTox-KG: Toxicology Knowledge Graph for Structural Birth Defects. Cold Spring Harbor Laboratory. <https://doi.org/10.1101/2022.09.15.508198>* (Preprint)
+
+Jeon, M., Xie, Z., Evangelista, J. E., Wojciechowicz, M. L., **Clarke, D. J. B.**, & Ma’ayan, A. (2022). Transforming L1000 profiles to RNA-seq-like profiles with deep learning. In BMC Bioinformatics (Vol. 23, Issue 1). Springer Science and Business Media LLC. <https://doi.org/10.1186/s12859-022-04895-5>
+
+Kropiwnicki, E., Lachmann, A., **Clarke, D. J. B.**, Xie, Z., Jagodnik, K. M., & Ma’ayan, A. (2022). DrugShot: querying biomedical search terms to retrieve prioritized lists of small molecules. In BMC Bioinformatics (Vol. 23, Issue 1). Springer Science and Business Media LLC. <https://doi.org/10.1186/s12859-022-04590-5>
+
+Evangelista, J. E., **Clarke, D. J. B.**, Xie, Z., Lachmann, A., Jeon, M., Chen, K., Jagodnik, K. M., Jenkins, S. L., Kuleshov, M. V., Wojciechowicz, M. L., Schürer, S. C., Medvedovic, M., & Ma’ayan, A. (2022). SigCom LINCS: data and metadata search engine for a million gene expression signatures. In Nucleic Acids Research (Vol. 50, Issue W1, pp. W697–W709). Oxford University Press (OUP). <https://doi.org/10.1093/nar/gkac328>
+
+**Clarke, D. J. B.**, Kuleshov, M. V., Xie, Z., Evangelista, J. E., Meyers, M. R., Kropiwnicki, E., Jenkins, S. L., & Ma’ayan, A. (2022). Gene and drug landing page aggregator. In S. Forslund (Ed.), Bioinformatics Advances (Vol. 2, Issue 1). Oxford University Press (OUP). <https://doi.org/10.1093/bioadv/vbac013>
+
+*Charbonneau, A. L., Brady, A., Czajkowski, K., Aluvathingal, J., Canchi, S., Carter, R., Chard, K., **Clarke, D. J. B.**, Creasy, H. H., D’Arcy, M., Giglio, M., Gingrich, A., Harris, R. M., Hodges, T. K., Ifeonu, O., Jeon, M., Kropiwnicki, E., Lim, M. C. W., Liming, R. L., … White, O. (2021). Making Common Fund data more findable: Catalyzing a Data Ecosystem. Cold Spring Harbor Laboratory. <https://doi.org/10.1101/2021.11.05.467504>* (Preprint)
 
 **Clarke, D. J. B.**, Jeon, M., Stein, D. J., Moiseyev, N., Kropiwnicki, E., Dai, C., Xie, Z., Wojciechowicz, M. L., Litz, S., Hom, J., Evangelista, J. E., Goldman, L., Zhang, S., Yoon, C., Ahamed, T., Bhuiyan, S., Cheng, M., Karam, J., Jagodnik, K. M., … Ma’ayan, A. (2021). Appyters: Turning Jupyter Notebooks into data-driven web apps. Patterns, 2(3), 100213. <https://doi.org/10.1016/j.patter.2021.100213>
 
 **Clarke, D. J. B.**, Rebman, A. W., Bailey, A., Wojciechowicz, M. L., Jenkins, S. L., Evangelista, J. E., Danieletto, M., Fan, J., Eshoo, M. W., Mosel, M. R., Robinson, W., Ramadoss, N., Bobe, J., Soloski, M. J., Aucott, J. N., & Ma’ayan, A. (2021). Predicting Lyme Disease From Patients’ Peripheral Blood Mononuclear Cells Profiled With RNA-Sequencing. Frontiers in Immunology, 12. <https://doi.org/10.3389/fimmu.2021.636289>
+
+Kropiwnicki, E., Evangelista, J. E., Stein, D. J., **Clarke, D. J. B.**, Lachmann, A., Kuleshov, M. V., Jeon, M., Jagodnik, K. M., & Ma’ayan, A. (2021). Drugmonizome and Drugmonizome-ML: integration and abstraction of small molecule attributes for drug enrichment analysis and machine learning. In Database (Vol. 2021). Oxford University Press (OUP). <https://doi.org/10.1093/database/baab017>
 
 Kuleshov, M. V., Stein, D. J., **Clarke, D. J. B.**, Kropiwnicki, E., Jagodnik, K. M., Bartal, A., Evangelista, J. E., Hom, J., Cheng, M., Bailey, A., Zhou, A., Ferguson, L. B., Lachmann, A., & Ma’ayan, A. (2020). The COVID-19 Drug and Gene Set Library. Patterns, 1(6), 100090. <https://doi.org/10.1016/j.patter.2020.100090>
 
@@ -166,22 +195,6 @@ Nandikotkur, G., Gomez, D., Dovale, J., **Clarke, D.**, Komstead, K., Shah, R., 
 
 <div style="page-break-inside: avoid;">
 
-**Open Source Software Development** <https://github.com/u8sand/>  
-2007 - Current
-
-- Research, led, and developed a wide variety of [projects](/projects)
-- Was exposed to a substantial number of technologies and systems including but not limited to:
-  - Python3; scipy, pandas, sklearn, tensorflow, asyncio, networkx, django, selenium, scapy
-  - HTML/Javascript; React, NodeJS, Typescript, ThreeJS, Loopback, mathjax, d3, jQuery
-  - DevOps: postgres, kubernetes, docker, vagrant, ansible, terraform, OpenAPI, CWL, JSON Schema
-  - Unix: awk, sed, rsync, rclone, iptables, bpf, git, perf, gdb, radare, jq
-  - C/C++; c++11y, Qt, boost, win32, .NET, CMake, OGRE, DirectX
-  - Other: Rust, WebAssembly, Haskell, Jekyll, Latex
-
-</div>
-
-<div style="page-break-inside: avoid;">
-
 **Baka MPlayer**, <https://u8sand.github.io/Baka-MPlayer/>  
 Summer 2014 - Winter 2017
 
@@ -195,6 +208,22 @@ Summer 2014 - Winter 2017
 
 **Amateur Radio License**, *Technician*, Call sign: KD2IQK  
 Spring 2015
+
+<div style="page-break-inside: avoid;">
+
+**Open Source Software Development** <https://github.com/u8sand/>  
+2007 - Current
+
+- Research, led, and developed a wide variety of [projects](/projects)
+- Was exposed to a substantial number of technologies and systems including but not limited to:
+  - Python; scipy, pandas, sklearn, tensorflow, asyncio, networkx, django, selenium, scapy
+  - HTML/Javascript; React, NodeJS, Typescript, ThreeJS, Loopback, mathjax, d3, jQuery
+  - DevOps: postgres, kubernetes, docker, vagrant, ansible, terraform, OpenAPI, CWL, JSON Schema
+  - Unix: awk, sed, rsync, rclone, iptables, bpf, git, perf, gdb, radare, jq
+  - C/C++; Qt, boost, win32, .NET, CMake, OGRE, DirectX
+  - Other: Rust, WebAssembly, Haskell, Jekyll, Latex
+
+</div>
 
 </div>
 
