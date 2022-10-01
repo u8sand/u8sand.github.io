@@ -3,27 +3,6 @@
 
 @import "materialize.scss";
 
-@font-face {
-    font-family: 'audiowideregular';
-    src: url('{{ "/fonts/audiowide/audiowide-regular-webfont.eot" | relative_url }}');
-    src: url('{{ "/fonts/audiowide/audiowide-regular-webfont.eot?#iefix" | relative_url }}') format('embedded-opentype'),
-         url('{{ "/fonts/audiowide/audiowide-regular-webfont.woff" | relative_url }}') format('woff'),
-         url('{{ "/fonts/audiowide/audiowide-regular-webfont.ttf" | relative_url }}') format('truetype'),
-         url('{{ "/fonts/audiowide/audiowide-regular-webfont.svg#audiowideregular" | relative_url }}') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-@font-face {
-    font-family: 'droid_sansregular';
-    src: url('{{ "/fonts/droidsans/droidsans-webfont.eot" | relative_url }}');
-    src: url('{{ "/fonts/droidsans/droidsans-webfont.eot?#iefix" | relative_url }}') format('embedded-opentype'),
-         url('{{ "/fonts/droidsans/droidsans-webfont.woff" | relative_url }}') format('woff'),
-         url('{{ "/fonts/droidsans/droidsans-webfont.ttf" | relative_url }}') format('truetype'),
-         url('{{ "/fonts/droidsans/droidsans-webfont.svg#droid_sansregular" | relative_url }}') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
 body {
   display: -webkit-box;
   display: -moz-box;
@@ -59,7 +38,7 @@ nav {
     margin-bottom: 10px;
 
     h1, h2 {
-      font-family:'audiowideregular';
+      font-family:'Arial';
       margin:0;
       border:0;
     }
