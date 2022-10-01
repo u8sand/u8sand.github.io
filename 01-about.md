@@ -195,7 +195,7 @@ Nandikotkur, G., Gomez, D., Dovale, J., **Clarke, D.**, Komstead, K., Shah, R., 
 
 <div style="page-break-inside: avoid;">
 
-**Baka MPlayer**, <https://u8sand.github.io/Baka-MPlayer/>  
+**Baka MPlayer**, [u8sand.github.io/Baka-MPlayer](https://u8sand.github.io/Baka-MPlayer/)  
 Summer 2014 - Winter 2017
 
 - Lead programmer, maintainer, and manager
@@ -211,7 +211,7 @@ Spring 2015
 
 <div style="page-break-inside: avoid;">
 
-**Open Source Software Development** <https://github.com/u8sand/>  
+**Open Source Software Development** [github.com/u8sand](https://github.com/u8sand/)  
 2007 - Current
 
 - Research, led, and developed a wide variety of [projects](/projects)
