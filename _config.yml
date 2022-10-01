@@ -1,9 +1,9 @@
 #baseurl: ""
 #url: ""
-title: u8sand.net
-subtitle: an online profile for Daniel J. B. Clarke
+title: Daniel J. B. Clarke
+subtitle: an online curriculum vitae
 description: >
-  TODO
+  Daniel J. B. Clarke, is an open source programmer and data science researcher interested in AI and involved in bioinformatics.
 markdown: kramdown
 gems:
   - jekyll-feed
