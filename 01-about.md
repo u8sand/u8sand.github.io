@@ -142,7 +142,7 @@ Summer 2013
 
 <div style="page-break-inside: avoid; margin-top: 2rem;">
 
-<h3>PUBLICATIONS (ORCID <b><a href="https://orcid.org/0000-0003-3471-7416">0000-0003-3471-7416</a></b>)<span class="noprint">, <a href="https://scholar.google.com/citations?user=y8-c7TkAAAAJ">Google Scholars</a></span></h3>
+<h3>PUBLICATIONS (ORCID <b><a href="https://orcid.org/0000-0003-3471-7416#works">0000-0003-3471-7416</a></b><span class="noprint">, <a href="https://scholar.google.com/citations?user=y8-c7TkAAAAJ">Google Scholars</a></span>)</h3>
 
 ---
 
