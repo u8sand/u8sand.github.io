@@ -146,7 +146,17 @@ Summer 2013
 
 ---
 
-*Evangelista, J. E., **Clarke, D. J. B.**, Xie, Z., Marino, G. B., Utti, V., Ahooyi, T. M., Jenkins, S. L., Taylor, D., Bologa, C. G., Yang, J. J., Binder, J. L., Kumar, P., Lambert, C. G., Grethe, J. S., Wenger, E., Oprea, T. I., de Bono, B., & Ma’ayan, A. (2022). ReproTox-KG: Toxicology Knowledge Graph for Structural Birth Defects. Cold Spring Harbor Laboratory. <https://doi.org/10.1101/2022.09.15.508198>* (Preprint)
+Evangelista, J. E., **Clarke, D. J. B.**, Xie, Z., Marino, G. B., Utti, V., Jenkins, S. L., Ahooyi, T. M., Bologa, C. G., Yang, J. J., Binder, J. L., Kumar, P., Lambert, C. G., Grethe, J. S., Wenger, E., Taylor, D., Oprea, T. I., de Bono, B., & Ma’ayan, A. (2023). Toxicology knowledge graph for structural birth defects. In Communications Medicine (Vol. 3, Issue 1). Springer Science and Business Media LLC. <https://doi.org/10.1038/s43856-023-00329-2>
+
+Deng, E. Z., Fleishman, R. H., Xie, Z., Marino, G. B., **Clarke, D. J. B.**, & Ma’ayan, A. (2023). Computational screen to identify potential targets for immunotherapeutic identification and removal of senescence cells. In Aging Cell (Vol. 22, Issue 6). Wiley. <https://doi.org/10.1111/acel.13809>
+
+Evangelista, J. E., Xie, Z., Marino, G. B., Nguyen, N., **Clarke, D. J. B.**, & Ma’ayan, A. (2023). Enrichr-KG: bridging enrichment analysis across multiple libraries. In Nucleic Acids Research (Vol. 51, Issue W1, pp. W168–W179). Oxford University Press (OUP). <https://doi.org/10.1093/nar/gkad393>
+
+Marino, G. B., Ngai, M., **Clarke, D. J. B.**, Fleishman, R. H., Deng, E. Z., Xie, Z., Ahmed, N., & Ma’ayan, A. (2023). GeneRanger and TargetRanger: processed gene and protein expression levels across cells and tissues for target discovery. In Nucleic Acids Research (Vol. 51, Issue W1, pp. W213–W224). Oxford University Press (OUP). <https://doi.org/10.1093/nar/gkad399>
+
+Marino, G. B., Wojciechowicz, M. L., **Clarke, D. J. B.**, Kuleshov, M. V., Xie, Z., Jeon, M., Lachmann, A., & Ma’ayan, A. (2023). lncHUB2: aggregated and inferred knowledge about human and mouse lncRNAs. In Database (Vol. 2023). Oxford University Press (OUP). <https://doi.org/10.1093/database/baad009>
+
+Lachmann, A., Rizzo, K. A., Bartal, A., Jeon, M., **Clarke, D. J. B.**, & Ma’ayan, A. (2023). PrismEXP: gene annotation prediction from stratified gene-gene co-expression matrices. In PeerJ (Vol. 11, p. e14927). PeerJ. <https://doi.org/10.7717/peerj.14927>
 
 Jeon, M., Xie, Z., Evangelista, J. E., Wojciechowicz, M. L., **Clarke, D. J. B.**, & Ma’ayan, A. (2022). Transforming L1000 profiles to RNA-seq-like profiles with deep learning. In BMC Bioinformatics (Vol. 23, Issue 1). Springer Science and Business Media LLC. <https://doi.org/10.1186/s12859-022-04895-5>
 
@@ -156,7 +166,7 @@ Evangelista, J. E., **Clarke, D. J. B.**, Xie, Z., Lachmann, A., Jeon, M., Chen,
 
 **Clarke, D. J. B.**, Kuleshov, M. V., Xie, Z., Evangelista, J. E., Meyers, M. R., Kropiwnicki, E., Jenkins, S. L., & Ma’ayan, A. (2022). Gene and drug landing page aggregator. In S. Forslund (Ed.), Bioinformatics Advances (Vol. 2, Issue 1). Oxford University Press (OUP). <https://doi.org/10.1093/bioadv/vbac013>
 
-*Charbonneau, A. L., Brady, A., Czajkowski, K., Aluvathingal, J., Canchi, S., Carter, R., Chard, K., **Clarke, D. J. B.**, Creasy, H. H., D’Arcy, M., Giglio, M., Gingrich, A., Harris, R. M., Hodges, T. K., Ifeonu, O., Jeon, M., Kropiwnicki, E., Lim, M. C. W., Liming, R. L., … White, O. (2021). Making Common Fund data more findable: Catalyzing a Data Ecosystem. Cold Spring Harbor Laboratory. <https://doi.org/10.1101/2021.11.05.467504>* (Preprint)
+Charbonneau, A. L., Brady, A., Czajkowski, K., Aluvathingal, J., Canchi, S., Carter, R., Chard, K., **Clarke, D. J. B.**, Crabtree, J., Creasy, H. H., D’Arcy, M., Felix, V., Giglio, M., Gingrich, A., Harris, R. M., Hodges, T. K., Ifeonu, O., Jeon, M., Kropiwnicki, E., … White, O. (2022). Making Common Fund data more findable: catalyzing a data ecosystem. In GigaScience (Vol. 11). Oxford University Press (OUP). <https://doi.org/10.1093/gigascience/giac105>
 
 **Clarke, D. J. B.**, Jeon, M., Stein, D. J., Moiseyev, N., Kropiwnicki, E., Dai, C., Xie, Z., Wojciechowicz, M. L., Litz, S., Hom, J., Evangelista, J. E., Goldman, L., Zhang, S., Yoon, C., Ahamed, T., Bhuiyan, S., Cheng, M., Karam, J., Jagodnik, K. M., … Ma’ayan, A. (2021). Appyters: Turning Jupyter Notebooks into data-driven web apps. Patterns, 2(3), 100213. <https://doi.org/10.1016/j.patter.2021.100213>
 
