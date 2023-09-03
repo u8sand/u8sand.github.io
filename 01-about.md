@@ -51,9 +51,14 @@ Magna Cum Laude, Global Scholars, Spring 2017
 **Data Science Analyst**, *Ma’ayan Laboratory of Computational Systems Biology, Icahn School of Medicine at Mount Sinai in New York*  
 February 2018 - Present
 
-- Conduct research and develop biomedical software applications and infrastructure
-- Active involvement and developer lead for several NIH-funded projects including: Data Commons, BD2K-LINCS DCIC, IDG, CFDE
-- Work is open source and publicly available: [appyters.maayanlab.cloud](https://appyters.maayanlab.cloud/) [maayanlab.cloud/sigcom-lincs/](https://maayanlab.cloud/sigcom-lincs/) [fairshake.cloud](https://fairshake.cloud/) [maayanlab.cloud/X2K/](https://maayanlab.cloud/X2K/)
+- Conduct research, develop, & maintain biomedical software applications and infrastructure as part of several NIH-funded projects including: Data Commons, BD2K-LINCS DCIC, IDG, CFDE, CPTAC
+- Develop & publish bioinformatic web applications including: [playbook-workflow-builder.cloud](https://playbook-workflow-builder.cloud/), [appyters.maayanlab.cloud](https://appyters.maayanlab.cloud/), [maayanlab.cloud/X2K/](https://maayanlab.cloud/X2K/), [cfde-gene-pages.cloud](https://cfde-gene-pages.cloud/), [fairshake.cloud](https://fairshake.cloud/), [maayanlab.cloud/covid19](https://maayanlab.cloud/covid19/) [maayanlab.cloud/sigcom-lincs/](https://maayanlab.cloud/sigcom-lincs/), [targetranger.maayanlab.cloud](https://targetranger.maayanlab.cloud/)
+- Develop & publish bioinformatic software packages including: [appyters](https://github.com/MaayanLab/appyter), [maayanlab-bioinformatics](https://github.com/MaayanLab/maayanlab-bioinformatics), [react-scatter-board](https://github.com/MaayanLab/react-scatter-board), [signature-commons](https://github.com/MaayanLab/signature-commons)
+- Conduct research and perform data analysis on several projects including: [Predicting Drug Toxicity in Pregnancy](https://doi.org/10.1038/s43856-023-00329-2), [Post Treatment Lyme Disease Biomarkers](https://doi.org/10.1016/j.xcrm.2022.100816), [Anti-Viral compounds for COVID-19](https://doi.org/10.1101/2020.07.12.199687)
+- Migrated public & heavily used bioinformatic software applications & databases to AWS managed Kubernetes, MariaDB, and S3 from an on premise set of machines
+- Maintain hundreds of legacy and actively developed bioinformatics web applications spanning several locations (cloud/on prem) and providers (aws, google cloud)
+- Collaborate with other individuals at other instituitions from diverse backgrounds across the country on shared research projects
+- Mentor summer student researchers every summer, conduct workshops, and give lectures on bioinformatics & machine learning topics
 
 </div>
 
