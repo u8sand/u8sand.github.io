@@ -233,14 +233,14 @@ Spring 2015
 **Open Source Software Development** [github.com/u8sand](https://github.com/u8sand/)  
 2007 - Current
 
-- Research, led, and developed a wide variety of [projects](/projects)
-- Was exposed to a substantial number of technologies and systems including but not limited to:
-  - Python; scipy, pandas, sklearn, tensorflow, asyncio, networkx, django, selenium, scapy
-  - HTML/Javascript; React, NodeJS, Typescript, ThreeJS, Loopback, mathjax, d3, jQuery
-  - DevOps: postgres, kubernetes, docker, vagrant, ansible, terraform, OpenAPI, CWL, JSON Schema
-  - Unix: awk, sed, rsync, rclone, iptables, bpf, git, perf, gdb, radare, jq
-  - C/C++; Qt, boost, win32, .NET, CMake, OGRE, DirectX
-  - Other: Rust, WebAssembly, Haskell, Jekyll, Latex
+- Gained expertise in a substantial number of technologies including but not limited to:
+  - Python: LangChain, pandas, sklearn, tensorflow, huggingface, fastapi, django, selenium, scapy
+  - HTML/Javascript: SolidJS, Svelte, NextJS, React, GraphQL, Typescript, ThreeJS, d3
+  - DevOps: postgres, kubernetes, docker, vagrant, ansible, terraform, OpenAPI, CWL, flatcar
+  - Unix: nginx, awk, sed, rsync, rclone, iptables, bpf, git, perf, gdb, radare, jq, restic
+  - Rust: rocket, rayon, pyo3, wasm-bindgen
+  - C/C++: Qt, boost, win32, .NET, CMake, OGRE, DirectX
+  - Other: OpenAI, WebAssembly, Haskell, Jekyll, Latex
 
 </div>
 
