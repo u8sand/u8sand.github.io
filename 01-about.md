@@ -12,7 +12,7 @@ printable: true
 
 **Email**: <danieljbclarke@gmail.com>  
 **Phone**: [201-357-7356](tel:201-357-7356)  
-**Website**: [u8sand.github.io](https://u8sand.github.io)
+**Website**: [danieljbclarke.github.io](https://danieljbclarke.github.io)
 
 </div>
 
