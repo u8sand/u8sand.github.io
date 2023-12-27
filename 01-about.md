@@ -54,7 +54,7 @@ Magna Cum Laude, Global Scholars, Spring 2017
 February 2018 - Present
 
 - Conduct research, develop, & maintain biomedical software applications and infrastructure as part of several NIH-funded projects including: Data Commons, BD2K-LINCS DCIC, IDG, CFDE, CPTAC
-- Develop & publish bioinformatic web applications including: [playbook-workflow-builder.cloud](https://playbook-workflow-builder.cloud/), [appyters.maayanlab.cloud](https://appyters.maayanlab.cloud/), [maayanlab.cloud/X2K/](https://maayanlab.cloud/X2K/), [cfde-gene-pages.cloud](https://cfde-gene-pages.cloud/), [fairshake.cloud](https://fairshake.cloud/), [maayanlab.cloud/covid19](https://maayanlab.cloud/covid19/) [maayanlab.cloud/sigcom-lincs/](https://maayanlab.cloud/sigcom-lincs/), [targetranger.maayanlab.cloud](https://targetranger.maayanlab.cloud/)
+- Develop & publish bioinformatic web applications including: [playbook-workflow-builder.cloud](https://playbook-workflow-builder.cloud/), [appyters.maayanlab.cloud](https://appyters.maayanlab.cloud/), [rummagene.com](https://rummagene.com) [maayanlab.cloud/X2K/](https://maayanlab.cloud/X2K/), [cfde-gene-pages.cloud](https://cfde-gene-pages.cloud/), [fairshake.cloud](https://fairshake.cloud/), [maayanlab.cloud/covid19](https://maayanlab.cloud/covid19/) [maayanlab.cloud/sigcom-lincs/](https://maayanlab.cloud/sigcom-lincs/), [targetranger.maayanlab.cloud](https://targetranger.maayanlab.cloud/)
 - Develop & publish bioinformatic software packages including: [appyters](https://github.com/MaayanLab/appyter), [maayanlab-bioinformatics](https://github.com/MaayanLab/maayanlab-bioinformatics), [react-scatter-board](https://github.com/MaayanLab/react-scatter-board), [signature-commons](https://github.com/MaayanLab/signature-commons)
 - Conduct research and perform data analysis on several projects including: [Predicting Drug Toxicity in Pregnancy](https://doi.org/10.1038/s43856-023-00329-2), [Post Treatment Lyme Disease Biomarkers](https://doi.org/10.1016/j.xcrm.2022.100816), [Anti-Viral compounds for COVID-19](https://doi.org/10.1101/2020.07.12.199687)
 - Migrated public & heavily used bioinformatic software applications & databases to AWS managed Kubernetes, MariaDB, and S3 from an on premise set of machines
@@ -147,6 +147,8 @@ Summer 2013
 <h3>PUBLICATIONS (ORCID <b><a href="https://orcid.org/0000-0003-3471-7416#works">0000-0003-3471-7416</a></b><span class="noprint">, <a href="https://scholar.google.com/citations?user=y8-c7TkAAAAJ">Google Scholars</a></span>)</h3>
 
 ---
+
+***Clarke, D. J. B.**, Marino, G. B., Deng, E. Z., Xie, Z., Evangelista, J. E., & Ma’ayan, A. (2023). Rummagene: Mining Gene Sets from Supporting Materials of PMC Publications. Cold Spring Harbor Laboratory. <https://doi.org/10.1101/2023.10.03.560783> (Preprint)*
 
 Evangelista, J. E., **Clarke, D. J. B.**, Xie, Z., Marino, G. B., Utti, V., Jenkins, S. L., Ahooyi, T. M., Bologa, C. G., Yang, J. J., Binder, J. L., Kumar, P., Lambert, C. G., Grethe, J. S., Wenger, E., Taylor, D., Oprea, T. I., de Bono, B., & Ma’ayan, A. (2023). Toxicology knowledge graph for structural birth defects. In Communications Medicine (Vol. 3, Issue 1). Springer Science and Business Media LLC. <https://doi.org/10.1038/s43856-023-00329-2>
 
