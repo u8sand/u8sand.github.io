@@ -12,7 +12,9 @@ printable: true
 
 **Email**: <danieljbclarke@gmail.com>  
 **Voicemail**: [201-357-7356](tel:201-357-7356)  
+<span class="printable">
 **Website**: [danieljbclarke.github.io](https://danieljbclarke.github.io)
+</span>
 
 </div>
 
