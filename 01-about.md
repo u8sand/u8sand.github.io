@@ -11,7 +11,7 @@ printable: true
 <div style="page-break-inside: avoid;">
 
 **Email**: <danieljbclarke@gmail.com>  
-**Phone**: [201-357-7356](tel:201-357-7356)  
+**Voicemail**: [201-357-7356](tel:201-357-7356)  
 **Website**: [danieljbclarke.github.io](https://danieljbclarke.github.io)
 
 </div>
